@@ -1,0 +1,1001 @@
+order_id,customer_id,product,category,state,order_date,quantity,price,status
+1,61889,Pixel Watch 2,Smartwatch,Haryana,2024-02-18,1,35203,Completed
+2,24191,Pixel 8a,Smartphone,Uttarakhand,2024-08-20,1,50828,Completed
+3,71631,Pixel Buds Pro 2,Earbuds,Odisha,2024-08-05,1,10805,Return
+4,11307,Pixel 9,Smartphone,Tamil Nadu,2024-01-03,1,105236,Completed
+5,29719,Pixel 9 Pro,Smartphone,Delhi,2024-05-29,1,53429,Completed
+6,65353,Pixel 8a,Smartphone,West Bengal,2024-05-27,2,111378,Completed
+7,30887,Pixel 8a,Smartphone,Maharashtra,2024-04-14,1,70090,Completed
+8,58085,Pixel 8a,Smartphone,Odisha,2024-06-12,1,73538,Completed
+9,79912,Pixel 9,Smartphone,Karnataka,2024-07-24,1,113631,Pending
+10,35691,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-10-08,1,103223,Completed
+11,31560,Pixel 8a,Smartphone,Tamil Nadu,2024-06-25,1,74293,Completed
+12,35844,Pixel 9,Smartphone,Gujarat,2024-04-17,1,95880,Return
+13,47373,Pixel 9,Smartphone,Haryana,2024-01-26,2,103264,Completed
+14,72763,Pixel Buds A-Series,Earbuds,Karnataka,2024-02-07,1,17372,Completed
+15,98711,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-02-21,2,200550,Completed
+16,95926,Pixel 9 Pro,Smartphone,Assam,2024-02-03,1,95150,Return
+17,21389,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-06-07,1,10920,Completed
+18,92473,Pixel 9 Pro XL,Smartphone,West Bengal,2024-12-18,1,48208,Pending
+19,26915,Pixel 9 Pro Fold,Smartphone,Assam,2024-11-05,1,72584,Completed
+20,59130,Pixel Watch 3,Smartwatch,Delhi,2024-07-29,1,31939,Return
+21,88045,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-11-14,1,46895,Completed
+22,17448,Pixel Watch 2,Smartwatch,Maharashtra,2024-11-23,1,30141,Completed
+23,14894,Pixel Buds Pro 2,Earbuds,Jharkhand,2024-11-06,1,10118,Completed
+24,99415,Pixel 8a,Smartphone,Rajasthan,2024-01-29,1,96789,Completed
+25,47550,Pixel Buds 2a,Earbuds,Uttarakhand,2024-12-30,1,8141,Completed
+26,38925,Pixel 9,Smartphone,Delhi,2024-06-12,2,134512,Pending
+27,74085,Pixel Buds Pro 2,Earbuds,Haryana,2024-07-24,1,9476,Completed
+28,46462,Pixel 9 Pro Fold,Smartphone,Gujarat,2024-08-20,1,100930,Completed
+29,46571,Pixel Buds A-Series,Earbuds,Telangana,2024-09-24,1,15857,Completed
+30,57574,Pixel 8a,Smartphone,Tamil Nadu,2024-05-20,1,79020,Completed
+31,30401,Pixel 9 Pro Fold,Smartphone,Gujarat,2024-11-17,1,47532,Completed
+32,88336,Pixel 9,Smartphone,Uttar Pradesh,2024-11-12,1,92331,Completed
+33,90765,Pixel 8a,Smartphone,Telangana,2024-11-22,1,85586,Completed
+34,39125,Pixel 9 Pro XL,Smartphone,Delhi,2024-12-09,1,75076,Completed
+35,81550,Pixel Watch 3,Smartwatch,Gujarat,2024-09-23,1,25388,Completed
+36,56414,Pixel Watch 3,Smartwatch,Maharashtra,2024-06-03,1,18543,Completed
+37,87804,Pixel 8a,Smartphone,Haryana,2024-09-30,1,44546,Completed
+38,42954,Pixel 9,Smartphone,Maharashtra,2024-06-04,1,97460,Completed
+39,67333,Pixel 9 Pro,Smartphone,Jharkhand,2024-02-09,1,62598,Completed
+40,52729,Pixel Buds 2a,Earbuds,Bihar,2024-05-11,1,10959,Completed
+41,16767,Pixel 9 Pro XL,Smartphone,Odisha,2024-04-24,1,80928,Pending
+42,54184,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-07-28,1,12969,Completed
+43,95109,Pixel Watch 2,Smartwatch,Uttarakhand,2024-12-29,1,18623,Completed
+44,25489,Pixel 9 Pro Fold,Smartphone,Odisha,2024-11-03,1,61177,Completed
+45,34504,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-11-01,2,152078,Completed
+46,74623,Pixel 9 Pro XL,Smartphone,West Bengal,2024-02-20,2,123548,Completed
+47,97434,Pixel Buds 2a,Earbuds,Odisha,2024-04-15,1,15244,Completed
+48,31181,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-08-10,1,110130,Pending
+49,13421,Pixel Buds A-Series,Earbuds,Chhattisgarh,2024-02-05,1,18839,Completed
+50,28417,Pixel 9 Pro XL,Smartphone,Assam,2024-05-19,1,70277,Completed
+51,74996,Pixel Watch 3,Smartwatch,Bihar,2024-08-13,1,21136,Completed
+52,38450,Pixel Buds Pro 2,Earbuds,Kerala,2024-12-15,1,13144,Completed
+53,69926,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-10-14,1,116787,Completed
+54,13071,Pixel 9 Pro Fold,Smartphone,West Bengal,2024-09-12,1,105262,Completed
+55,11275,Pixel 8a,Smartphone,Punjab,2024-05-19,1,90584,Return
+56,13658,Pixel Buds A-Series,Earbuds,Maharashtra,2024-12-28,1,16113,Completed
+57,93767,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-04-21,1,94160,Completed
+58,61409,Pixel 9 Pro Fold,Smartphone,Telangana,2024-03-06,1,81571,Return
+59,79903,Pixel 9 Pro,Smartphone,Assam,2024-05-29,1,84162,Completed
+60,77151,Pixel 9,Smartphone,Gujarat,2024-06-21,1,104776,Completed
+61,73092,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-06-09,1,103869,Pending
+62,38891,Pixel 8a,Smartphone,Haryana,2024-03-01,2,105202,Completed
+63,81099,Pixel Buds A-Series,Earbuds,Maharashtra,2024-10-08,1,20847,Completed
+64,64924,Pixel Buds Pro 2,Earbuds,Gujarat,2024-11-01,1,8036,Completed
+65,26580,Pixel Buds 2a,Earbuds,Himachal Pradesh,2024-02-28,1,20929,Completed
+66,58867,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-08-20,1,92804,Completed
+67,66832,Pixel 9 Pro XL,Smartphone,Punjab,2024-05-28,1,97632,Completed
+68,43254,Pixel 9 Pro,Smartphone,Telangana,2024-03-17,1,48062,Completed
+69,33968,Pixel Watch 3,Smartwatch,Haryana,2024-12-19,1,35988,Completed
+70,35009,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-03-25,1,14980,Completed
+71,38796,Pixel 9 Pro XL,Smartphone,Assam,2024-01-18,1,108535,Completed
+72,44491,Pixel Buds A-Series,Earbuds,Bihar,2024-04-27,1,19773,Completed
+73,23732,Pixel 9 Pro,Smartphone,Jharkhand,2024-06-03,1,42860,Completed
+74,60143,Pixel Buds A-Series,Earbuds,Bihar,2024-10-18,1,6635,Pending
+75,36565,Pixel Buds Pro 2,Earbuds,Haryana,2024-06-01,1,6808,Pending
+76,70975,Pixel 8a,Smartphone,Maharashtra,2024-05-18,1,43678,Completed
+77,64399,Pixel Buds Pro 2,Earbuds,Uttar Pradesh,2024-12-11,1,7228,Completed
+78,99990,Pixel Buds A-Series,Earbuds,Rajasthan,2024-08-02,1,6663,Completed
+79,41301,Pixel Buds A-Series,Earbuds,Assam,2024-01-14,1,17277,Completed
+80,49793,Pixel Watch 2,Smartwatch,Rajasthan,2024-05-19,1,17227,Completed
+81,82768,Pixel 9,Smartphone,Telangana,2024-04-19,2,196118,Return
+82,45196,Pixel Watch 3,Smartwatch,West Bengal,2024-05-05,1,36248,Completed
+83,53971,Pixel Buds Pro 2,Earbuds,Jharkhand,2024-07-16,1,16913,Completed
+84,82564,Pixel Watch 3,Smartwatch,Telangana,2024-08-18,1,26056,Completed
+85,43721,Pixel 9 Pro XL,Smartphone,Tamil Nadu,2024-01-25,1,89328,Completed
+86,19031,Pixel 8a,Smartphone,Tamil Nadu,2024-10-27,1,81711,Completed
+87,96470,Pixel 9,Smartphone,Uttar Pradesh,2024-07-15,1,73218,Completed
+88,76654,Pixel 9 Pro XL,Smartphone,Tamil Nadu,2024-12-20,2,186878,Completed
+89,90525,Pixel Watch 2,Smartwatch,Bihar,2024-11-21,1,20236,Completed
+90,31122,Pixel 8a,Smartphone,Uttar Pradesh,2024-04-27,1,84625,Completed
+91,13796,Pixel 9 Pro Fold,Smartphone,Madhya Pradesh,2024-03-12,2,216250,Completed
+92,72308,Pixel 9 Pro Fold,Smartphone,Haryana,2024-07-05,2,174622,Completed
+93,43445,Pixel Buds A-Series,Earbuds,Telangana,2024-12-25,1,17213,Completed
+94,66783,Pixel 9,Smartphone,Punjab,2024-12-05,1,67283,Completed
+95,23970,Pixel 8a,Smartphone,Gujarat,2024-12-09,1,42582,Completed
+96,19791,Pixel Watch 3,Smartwatch,West Bengal,2024-08-08,1,34695,Completed
+97,98396,Pixel Buds Pro 2,Earbuds,Bihar,2024-05-02,1,8865,Pending
+98,53949,Pixel 8a,Smartphone,Gujarat,2024-02-08,1,63688,Completed
+99,82756,Pixel Buds 2a,Earbuds,Bihar,2024-08-01,1,7339,Completed
+100,43534,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-05-24,1,97960,Completed
+101,10007,Pixel Buds Pro 2,Earbuds,Delhi,2024-06-02,1,12140,Return
+102,80125,Pixel 9 Pro XL,Smartphone,Uttar Pradesh,2024-05-14,1,85397,Completed
+103,19404,Pixel 9 Pro XL,Smartphone,Punjab,2024-07-03,2,199262,Completed
+104,70331,Pixel 9 Pro,Smartphone,Odisha,2024-06-01,1,102637,Completed
+105,21512,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-06-02,2,158354,Completed
+106,90194,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-04-07,1,56414,Completed
+107,67680,Pixel 9 Pro,Smartphone,Kerala,2024-03-26,2,176458,Completed
+108,73656,Pixel 8a,Smartphone,Uttar Pradesh,2024-10-10,1,117430,Completed
+109,90580,Pixel Watch 2,Smartwatch,Uttarakhand,2024-01-30,1,27939,Completed
+110,41180,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-12-17,1,116167,Completed
+111,29177,Pixel Buds 2a,Earbuds,Assam,2024-12-29,1,11002,Completed
+112,32266,Pixel 9,Smartphone,Himachal Pradesh,2024-10-31,1,91388,Completed
+113,92258,Pixel Watch 3,Smartwatch,Rajasthan,2024-02-02,1,36322,Completed
+114,69071,Pixel 8a,Smartphone,Assam,2024-02-04,2,201220,Completed
+115,77234,Pixel Buds Pro 2,Earbuds,Uttar Pradesh,2024-10-27,2,42442,Completed
+116,99717,Pixel Buds Pro 2,Earbuds,Chhattisgarh,2024-09-29,1,12901,Completed
+117,89974,Pixel Buds A-Series,Earbuds,Gujarat,2024-11-11,1,8966,Completed
+118,58535,Pixel Watch 3,Smartwatch,Punjab,2024-09-01,1,25928,Completed
+119,61893,Pixel Watch 3,Smartwatch,Karnataka,2024-03-03,1,28813,Completed
+120,41525,Pixel Buds A-Series,Earbuds,Telangana,2024-08-24,1,15185,Completed
+121,65816,Pixel 9,Smartphone,West Bengal,2024-03-21,1,59338,Completed
+122,89711,Pixel Watch 2,Smartwatch,Bihar,2024-08-24,1,36419,Return
+123,62999,Pixel 9 Pro,Smartphone,Bihar,2024-05-10,1,96533,Completed
+124,20218,Pixel 9 Pro,Smartphone,Assam,2024-05-12,1,56509,Completed
+125,69920,Pixel 9 Pro XL,Smartphone,Telangana,2024-10-17,1,47276,Return
+126,34522,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-10-16,1,6898,Completed
+127,28962,Pixel Buds A-Series,Earbuds,Delhi,2024-12-17,1,20221,Completed
+128,20819,Pixel Buds Pro 2,Earbuds,Kerala,2024-08-10,1,20988,Completed
+129,12307,Pixel Watch 2,Smartwatch,Jharkhand,2024-05-01,1,24342,Completed
+130,48264,Pixel Buds A-Series,Earbuds,Rajasthan,2024-02-26,1,10282,Completed
+131,24403,Pixel 9 Pro,Smartphone,Chhattisgarh,2024-04-09,2,126804,Pending
+132,73989,Pixel 8a,Smartphone,Tamil Nadu,2024-11-06,2,82576,Completed
+133,95354,Pixel Watch 3,Smartwatch,Tamil Nadu,2024-10-03,1,21408,Completed
+134,24778,Pixel Watch 3,Smartwatch,West Bengal,2024-01-23,1,16695,Completed
+135,38590,Pixel Buds A-Series,Earbuds,Karnataka,2024-12-05,1,10113,Return
+136,22624,Pixel 9 Pro Fold,Smartphone,Rajasthan,2024-02-17,1,74766,Completed
+137,11652,Pixel 9,Smartphone,Jharkhand,2024-11-21,1,42870,Completed
+138,54149,Pixel Buds Pro 2,Earbuds,Kerala,2024-04-22,2,13750,Completed
+139,84659,Pixel 9 Pro,Smartphone,Haryana,2024-08-03,1,44913,Completed
+140,63815,Pixel Watch 2,Smartwatch,Kerala,2024-11-11,1,16306,Completed
+141,90414,Pixel 9 Pro,Smartphone,Assam,2024-12-02,1,104663,Completed
+142,11269,Pixel 8a,Smartphone,Haryana,2024-03-17,2,93332,Completed
+143,43689,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-12-17,1,88018,Completed
+144,33768,Pixel Watch 2,Smartwatch,Assam,2024-05-10,1,31999,Completed
+145,31332,Pixel Buds Pro 2,Earbuds,Gujarat,2024-07-13,1,17860,Completed
+146,65900,Pixel 8a,Smartphone,Gujarat,2024-09-01,1,53398,Pending
+147,68146,Pixel 8a,Smartphone,Uttar Pradesh,2024-10-21,1,94367,Completed
+148,62330,Pixel Buds A-Series,Earbuds,West Bengal,2024-12-18,1,10577,Completed
+149,25412,Pixel Watch 2,Smartwatch,Jharkhand,2024-08-20,1,20180,Completed
+150,81561,Pixel Watch 2,Smartwatch,Gujarat,2024-06-06,1,21510,Completed
+151,63362,Pixel Buds 2a,Earbuds,Uttar Pradesh,2024-02-25,1,14377,Completed
+152,76928,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-12-24,2,228704,Completed
+153,22259,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-07-07,1,14068,Completed
+154,94800,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-12-23,1,95647,Completed
+155,72292,Pixel 9 Pro XL,Smartphone,Rajasthan,2024-05-28,1,107852,Completed
+156,93717,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-09-28,2,149354,Completed
+157,31651,Pixel 9,Smartphone,Jharkhand,2024-02-18,2,116464,Completed
+158,90475,Pixel 8a,Smartphone,Bihar,2024-06-04,1,57567,Completed
+159,50779,Pixel Buds Pro 2,Earbuds,Madhya Pradesh,2024-03-28,1,16189,Completed
+160,18434,Pixel Buds A-Series,Earbuds,Odisha,2024-07-31,1,6375,Completed
+161,36495,Pixel 9,Smartphone,Jharkhand,2024-04-07,1,74069,Completed
+162,27477,Pixel 8a,Smartphone,Uttar Pradesh,2024-01-29,2,163240,Completed
+163,69355,Pixel 9,Smartphone,Uttarakhand,2024-11-02,1,63155,Completed
+164,41964,Pixel 9 Pro,Smartphone,Kerala,2024-05-06,1,108413,Completed
+165,27410,Pixel 9,Smartphone,Punjab,2024-10-28,1,115835,Completed
+166,33798,Pixel Buds 2a,Earbuds,Madhya Pradesh,2024-12-08,1,20303,Completed
+167,40443,Pixel Buds 2a,Earbuds,Maharashtra,2024-06-08,1,6904,Completed
+168,29214,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-09-24,1,47116,Completed
+169,46480,Pixel 9 Pro,Smartphone,Maharashtra,2024-07-22,1,95388,Completed
+170,21753,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-06-03,1,6177,Completed
+171,57234,Pixel Buds 2a,Earbuds,Haryana,2024-04-01,1,15764,Completed
+172,26059,Pixel Buds 2a,Earbuds,Odisha,2024-06-04,1,10792,Completed
+173,92354,Pixel 9 Pro,Smartphone,Karnataka,2024-03-01,1,87253,Completed
+174,73971,Pixel 8a,Smartphone,Karnataka,2024-10-31,1,81061,Completed
+175,73529,Pixel Buds Pro 2,Earbuds,Kerala,2024-07-29,1,13161,Completed
+176,34006,Pixel Buds 2a,Earbuds,Jharkhand,2024-04-01,1,10795,Completed
+177,79474,Pixel Buds Pro 2,Earbuds,Kerala,2024-12-10,1,7172,Completed
+178,16696,Pixel Watch 3,Smartwatch,Odisha,2024-08-08,1,17888,Completed
+179,43039,Pixel Watch 3,Smartwatch,Maharashtra,2024-05-11,1,28284,Completed
+180,80358,Pixel Buds 2a,Earbuds,Kerala,2024-08-07,1,11495,Completed
+181,20104,Pixel 9 Pro XL,Smartphone,Assam,2024-07-13,1,82185,Completed
+182,20251,Pixel Watch 3,Smartwatch,West Bengal,2024-04-06,1,21440,Completed
+183,48390,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-07-14,1,27516,Completed
+184,25451,Pixel Buds 2a,Earbuds,Uttar Pradesh,2024-11-09,1,21484,Completed
+185,21360,Pixel Buds Pro 2,Earbuds,Himachal Pradesh,2024-11-05,1,7396,Completed
+186,92953,Pixel Buds Pro 2,Earbuds,Karnataka,2024-02-12,1,19114,Completed
+187,51945,Pixel Buds 2a,Earbuds,Assam,2024-12-19,1,16197,Completed
+188,19286,Pixel 9 Pro XL,Smartphone,Haryana,2024-04-13,1,73683,Completed
+189,18740,Pixel Buds Pro 2,Earbuds,Delhi,2024-08-04,1,7927,Completed
+190,54813,Pixel 9 Pro XL,Smartphone,Himachal Pradesh,2024-12-30,1,55835,Completed
+191,32766,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-10-24,1,21982,Return
+192,45305,Pixel Buds A-Series,Earbuds,West Bengal,2024-04-02,1,7778,Completed
+193,87582,Pixel Watch 2,Smartwatch,Telangana,2024-03-13,1,27851,Completed
+194,81005,Pixel Watch 3,Smartwatch,Gujarat,2024-05-30,1,24116,Completed
+195,74604,Pixel Buds 2a,Earbuds,Telangana,2024-07-14,1,20273,Completed
+196,99148,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-05-04,2,157638,Completed
+197,58288,Pixel 9 Pro Fold,Smartphone,Odisha,2024-07-25,1,41304,Completed
+198,78981,Pixel Watch 2,Smartwatch,Himachal Pradesh,2024-01-29,1,28699,Completed
+199,55963,Pixel Buds 2a,Earbuds,Rajasthan,2024-05-20,1,19663,Return
+200,96369,Pixel 9,Smartphone,West Bengal,2024-07-13,1,71945,Completed
+201,64580,Pixel 9,Smartphone,West Bengal,2024-11-27,1,68105,Completed
+202,75361,Pixel Buds A-Series,Earbuds,Maharashtra,2024-08-09,1,20699,Completed
+203,80347,Pixel 8a,Smartphone,Uttarakhand,2024-03-23,1,70352,Completed
+204,78510,Pixel Buds A-Series,Earbuds,Jharkhand,2024-02-24,1,10249,Completed
+205,42237,Pixel Buds Pro 2,Earbuds,Haryana,2024-11-08,2,26410,Completed
+206,80089,Pixel Buds 2a,Earbuds,Karnataka,2024-03-30,1,20526,Completed
+207,50837,Pixel 9 Pro,Smartphone,Gujarat,2024-09-26,2,116930,Completed
+208,89706,Pixel 9,Smartphone,Himachal Pradesh,2024-10-06,1,86719,Completed
+209,44404,Pixel Watch 2,Smartwatch,Madhya Pradesh,2024-04-08,1,16732,Completed
+210,23677,Pixel 9 Pro XL,Smartphone,Tamil Nadu,2024-02-27,1,77368,Completed
+211,86437,Pixel 9,Smartphone,Kerala,2024-02-23,1,113424,Completed
+212,72369,Pixel 9,Smartphone,Himachal Pradesh,2024-03-21,3,127074,Return
+213,93140,Pixel Buds 2a,Earbuds,West Bengal,2024-04-01,1,15340,Completed
+214,99655,Pixel 8a,Smartphone,Chhattisgarh,2024-06-29,1,95369,Completed
+215,19146,Pixel Watch 2,Smartwatch,Bihar,2024-07-12,1,34983,Completed
+216,24241,Pixel Watch 2,Smartwatch,Assam,2024-02-20,1,33815,Completed
+217,17933,Pixel Buds Pro 2,Earbuds,Himachal Pradesh,2024-01-15,1,19713,Pending
+218,11781,Pixel 9,Smartphone,West Bengal,2024-01-17,1,67543,Completed
+219,86070,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-12-20,1,91306,Completed
+220,84322,Pixel Buds Pro 2,Earbuds,Punjab,2024-08-19,1,20153,Completed
+221,62777,Pixel 9 Pro XL,Smartphone,Karnataka,2024-12-18,1,76260,Completed
+222,70345,Pixel 9 Pro XL,Smartphone,Kerala,2024-04-24,1,93283,Completed
+223,30394,Pixel 8a,Smartphone,Jharkhand,2024-07-29,2,185014,Completed
+224,76609,Pixel Buds Pro 2,Earbuds,Jharkhand,2024-07-16,1,10978,Completed
+225,51949,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-08-29,1,70818,Completed
+226,46745,Pixel 9 Pro XL,Smartphone,Uttar Pradesh,2024-07-31,1,41081,Completed
+227,16757,Pixel 9,Smartphone,Odisha,2024-02-27,1,60122,Completed
+228,35998,Pixel 9 Pro,Smartphone,Rajasthan,2024-11-19,2,235090,Completed
+229,69835,Pixel 9,Smartphone,Maharashtra,2024-10-31,1,80466,Completed
+230,87538,Pixel 9 Pro,Smartphone,Telangana,2024-07-15,2,167824,Completed
+231,97799,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-11-14,2,162442,Completed
+232,29606,Pixel Watch 3,Smartwatch,Delhi,2024-10-04,1,20491,Completed
+233,81353,Pixel 8a,Smartphone,Kerala,2024-01-18,1,119496,Pending
+234,30194,Pixel Buds 2a,Earbuds,Odisha,2024-06-16,1,15753,Completed
+235,42540,Pixel 9,Smartphone,West Bengal,2024-11-22,2,148114,Completed
+236,99635,Pixel Watch 3,Smartwatch,Jharkhand,2024-03-27,1,38965,Pending
+237,56686,Pixel 9,Smartphone,Himachal Pradesh,2024-08-17,1,95122,Pending
+238,68932,Pixel 9 Pro,Smartphone,West Bengal,2024-10-02,1,68580,Completed
+239,51210,Pixel Buds 2a,Earbuds,Karnataka,2024-08-31,1,11725,Completed
+240,85849,Pixel Buds Pro 2,Earbuds,Punjab,2024-10-29,1,8862,Completed
+241,87609,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-04-01,3,286674,Completed
+242,22272,Pixel Watch 3,Smartwatch,Madhya Pradesh,2024-10-16,1,32145,Completed
+243,58258,Pixel Buds 2a,Earbuds,Himachal Pradesh,2024-02-25,1,8732,Return
+244,96337,Pixel Buds A-Series,Earbuds,Kerala,2024-11-06,1,6835,Completed
+245,13547,Pixel Buds Pro 2,Earbuds,Karnataka,2024-06-12,1,8491,Return
+246,24473,Pixel Buds Pro 2,Earbuds,Jharkhand,2024-08-17,1,6288,Completed
+247,60289,Pixel Buds 2a,Earbuds,Punjab,2024-11-10,1,14353,Completed
+248,35736,Pixel Buds A-Series,Earbuds,Haryana,2024-07-13,1,17229,Return
+249,47864,Pixel Watch 3,Smartwatch,Gujarat,2024-07-30,1,23606,Completed
+250,29946,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-10-31,1,13902,Completed
+251,80062,Pixel Buds A-Series,Earbuds,Maharashtra,2024-05-20,1,15693,Completed
+252,65406,Pixel Watch 2,Smartwatch,West Bengal,2024-11-24,1,21050,Completed
+253,44549,Pixel Buds 2a,Earbuds,Maharashtra,2024-07-18,1,9929,Completed
+254,86301,Pixel 9 Pro,Smartphone,West Bengal,2024-04-22,2,200532,Pending
+255,57341,Pixel Buds 2a,Earbuds,Tamil Nadu,2024-07-18,1,19704,Completed
+256,20886,Pixel Watch 3,Smartwatch,West Bengal,2024-01-26,1,36913,Completed
+257,39119,Pixel Buds A-Series,Earbuds,Telangana,2024-09-11,1,19202,Completed
+258,67956,Pixel Watch 3,Smartwatch,Gujarat,2024-10-16,1,36082,Completed
+259,24352,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-06-07,1,10201,Completed
+260,49371,Pixel Watch 2,Smartwatch,Bihar,2024-07-21,1,34351,Completed
+261,76261,Pixel Watch 3,Smartwatch,Odisha,2024-12-15,1,28937,Completed
+262,83520,Pixel 8a,Smartphone,Kerala,2024-02-21,1,89702,Completed
+263,94573,Pixel 9,Smartphone,Karnataka,2024-12-19,1,64571,Completed
+264,11217,Pixel 9 Pro,Smartphone,Kerala,2024-05-05,1,57807,Completed
+265,77155,Pixel Watch 2,Smartwatch,Chhattisgarh,2024-02-14,1,34985,Completed
+266,44522,Pixel Buds Pro 2,Earbuds,Telangana,2024-09-22,1,8871,Completed
+267,73663,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-01-05,1,46888,Completed
+268,44788,Pixel 9 Pro XL,Smartphone,Gujarat,2024-07-29,1,43065,Completed
+269,41752,Pixel 9,Smartphone,Madhya Pradesh,2024-08-12,1,60151,Completed
+270,24812,Pixel Buds A-Series,Earbuds,Madhya Pradesh,2024-09-11,1,11722,Completed
+271,26838,Pixel Watch 3,Smartwatch,Assam,2024-07-12,1,20030,Return
+272,82095,Pixel 9,Smartphone,Madhya Pradesh,2024-02-14,1,114899,Completed
+273,29895,Pixel Watch 3,Smartwatch,Odisha,2024-12-27,1,20414,Completed
+274,78095,Pixel Watch 3,Smartwatch,Kerala,2024-05-03,1,35189,Completed
+275,66784,Pixel Buds Pro 2,Earbuds,Bihar,2024-02-09,1,10447,Completed
+276,42098,Pixel Watch 3,Smartwatch,Maharashtra,2024-12-10,1,30511,Completed
+277,52578,Pixel 9 Pro Fold,Smartphone,Jharkhand,2024-07-10,1,43179,Completed
+278,11066,Pixel 8a,Smartphone,Uttarakhand,2024-05-05,1,100658,Completed
+279,24805,Pixel 9 Pro,Smartphone,Chhattisgarh,2024-09-01,1,61754,Completed
+280,48446,Pixel 9 Pro XL,Smartphone,Kerala,2024-09-09,1,98685,Completed
+281,73727,Pixel 9,Smartphone,West Bengal,2024-12-10,1,79806,Completed
+282,41340,Pixel Buds A-Series,Earbuds,Gujarat,2024-05-29,1,15032,Completed
+283,58570,Pixel Watch 3,Smartwatch,Rajasthan,2024-02-14,1,29041,Completed
+284,14166,Pixel 9,Smartphone,Gujarat,2024-02-28,1,61474,Completed
+285,31585,Pixel Buds A-Series,Earbuds,Assam,2024-01-20,1,12168,Completed
+286,86798,Pixel 8a,Smartphone,Jharkhand,2024-10-01,1,77997,Return
+287,32114,Pixel Watch 3,Smartwatch,Uttarakhand,2024-04-20,1,28169,Completed
+288,48515,Pixel Buds 2a,Earbuds,Tamil Nadu,2024-12-07,1,16048,Completed
+289,53088,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-05-19,1,103110,Completed
+290,43585,Pixel Buds Pro 2,Earbuds,Delhi,2024-09-14,1,15250,Completed
+291,46102,Pixel 9 Pro Fold,Smartphone,Assam,2024-10-29,3,304797,Completed
+292,58233,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-08-30,1,8884,Pending
+293,32024,Pixel Watch 2,Smartwatch,Uttar Pradesh,2024-06-04,1,30032,Completed
+294,86818,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-07-20,2,165682,Completed
+295,81032,Pixel 9 Pro,Smartphone,Odisha,2024-06-09,2,105376,Completed
+296,60310,Pixel Buds A-Series,Earbuds,Jharkhand,2024-06-07,1,12572,Completed
+297,28588,Pixel Buds A-Series,Earbuds,Rajasthan,2024-03-12,1,13089,Completed
+298,24995,Pixel 8a,Smartphone,Delhi,2024-05-25,1,74800,Completed
+299,86992,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-06-28,1,49173,Pending
+300,45139,Pixel Buds 2a,Earbuds,Karnataka,2024-10-26,1,17560,Completed
+301,96375,Pixel Buds 2a,Earbuds,Bihar,2024-02-26,1,7344,Completed
+302,63958,Pixel Buds 2a,Earbuds,Punjab,2024-04-04,1,14240,Completed
+303,16110,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-06-06,1,61291,Pending
+304,98318,Pixel Watch 2,Smartwatch,Punjab,2024-06-06,1,21126,Completed
+305,48277,Pixel 8a,Smartphone,Tamil Nadu,2024-04-04,2,210782,Return
+306,56871,Pixel Buds A-Series,Earbuds,Chhattisgarh,2024-07-19,1,15548,Pending
+307,38229,Pixel Buds A-Series,Earbuds,Uttar Pradesh,2024-12-06,1,17247,Completed
+308,97037,Pixel Buds 2a,Earbuds,Karnataka,2024-04-06,1,19578,Completed
+309,63301,Pixel Buds 2a,Earbuds,Punjab,2024-08-03,1,10321,Completed
+310,55869,Pixel Buds Pro 2,Earbuds,Madhya Pradesh,2024-11-06,1,19873,Pending
+311,29175,Pixel Buds 2a,Earbuds,Maharashtra,2024-03-30,1,7708,Completed
+312,90219,Pixel 9 Pro Fold,Smartphone,Assam,2024-07-23,1,84250,Completed
+313,62723,Pixel 9 Pro,Smartphone,West Bengal,2024-04-20,1,82707,Completed
+314,45259,Pixel Buds A-Series,Earbuds,Gujarat,2024-03-25,1,19420,Return
+315,86582,Pixel 9 Pro Fold,Smartphone,Maharashtra,2024-12-30,1,73558,Pending
+316,93286,Pixel 9 Pro XL,Smartphone,Assam,2024-08-19,1,112154,Return
+317,67564,Pixel Buds A-Series,Earbuds,Punjab,2024-04-15,1,19420,Return
+318,97356,Pixel 8a,Smartphone,Telangana,2024-03-12,1,98305,Completed
+319,16116,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-10-31,1,13347,Completed
+320,51825,Pixel Buds 2a,Earbuds,Rajasthan,2024-06-24,1,12122,Completed
+321,71427,Pixel 9 Pro XL,Smartphone,Punjab,2024-10-17,1,105283,Completed
+322,48042,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-12-28,1,34249,Completed
+323,56058,Pixel 8a,Smartphone,Bihar,2024-09-22,1,72470,Completed
+324,52950,Pixel Watch 2,Smartwatch,Assam,2024-09-20,1,26304,Completed
+325,28075,Pixel 9,Smartphone,West Bengal,2024-07-10,1,46131,Return
+326,41160,Pixel 9 Pro XL,Smartphone,Assam,2024-04-03,1,61427,Completed
+327,36291,Pixel 9 Pro Fold,Smartphone,Telangana,2024-02-23,2,94604,Completed
+328,56515,Pixel Watch 2,Smartwatch,Maharashtra,2024-08-12,1,33262,Completed
+329,99996,Pixel 8a,Smartphone,Telangana,2024-11-16,3,171567,Completed
+330,81495,Pixel Buds A-Series,Earbuds,Haryana,2024-06-07,1,20367,Return
+331,82557,Pixel Buds 2a,Earbuds,Rajasthan,2024-02-11,1,11282,Completed
+332,91510,Pixel 9,Smartphone,Himachal Pradesh,2024-10-04,2,148924,Completed
+333,98098,Pixel Buds A-Series,Earbuds,Haryana,2024-05-20,1,12734,Completed
+334,84145,Pixel 9,Smartphone,West Bengal,2024-12-24,1,59964,Completed
+335,21444,Pixel 9,Smartphone,Delhi,2024-06-11,1,117313,Completed
+336,34327,Pixel 9 Pro,Smartphone,Madhya Pradesh,2024-05-03,2,93110,Completed
+337,90886,Pixel 9 Pro,Smartphone,Assam,2024-11-12,1,43894,Completed
+338,21563,Pixel Watch 2,Smartwatch,Gujarat,2024-05-08,1,24779,Completed
+339,24196,Pixel Buds Pro 2,Earbuds,Kerala,2024-09-24,1,10634,Completed
+340,66112,Pixel 9 Pro XL,Smartphone,Punjab,2024-01-23,2,227408,Completed
+341,87406,Pixel 9,Smartphone,Madhya Pradesh,2024-02-12,2,193922,Completed
+342,83934,Pixel Buds Pro 2,Earbuds,Telangana,2024-02-16,1,16295,Completed
+343,32270,Pixel 9 Pro XL,Smartphone,Uttarakhand,2024-09-13,2,168894,Completed
+344,51174,Pixel 9,Smartphone,Bihar,2024-11-24,1,102383,Completed
+345,91765,Pixel 9,Smartphone,Uttar Pradesh,2024-01-05,1,68258,Completed
+346,70785,Pixel Buds A-Series,Earbuds,Uttarakhand,2024-09-06,1,12166,Completed
+347,48427,Pixel 9 Pro XL,Smartphone,Tamil Nadu,2024-04-12,1,48817,Completed
+348,94031,Pixel 9 Pro,Smartphone,Haryana,2024-12-07,1,75781,Completed
+349,79958,Pixel 9 Pro Fold,Smartphone,Haryana,2024-08-04,1,54593,Pending
+350,83271,Pixel 9 Pro Fold,Smartphone,Rajasthan,2024-11-23,1,95590,Pending
+351,49711,Pixel Buds 2a,Earbuds,Karnataka,2024-06-01,1,12623,Completed
+352,83898,Pixel Watch 2,Smartwatch,Kerala,2024-11-15,1,23068,Completed
+353,91277,Pixel Buds 2a,Earbuds,Tamil Nadu,2024-01-16,2,18044,Completed
+354,56203,Pixel Buds A-Series,Earbuds,Tamil Nadu,2024-06-01,1,10664,Return
+355,84909,Pixel 8a,Smartphone,Punjab,2024-08-17,1,107181,Return
+356,48271,Pixel 9 Pro XL,Smartphone,Delhi,2024-11-16,1,64781,Completed
+357,97428,Pixel 9,Smartphone,Maharashtra,2024-05-19,1,43107,Completed
+358,83286,Pixel Buds Pro 2,Earbuds,Karnataka,2024-11-27,1,15955,Completed
+359,70078,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-09-13,2,209362,Completed
+360,33939,Pixel Watch 2,Smartwatch,Jharkhand,2024-04-19,1,24150,Return
+361,98038,Pixel Buds Pro 2,Earbuds,Haryana,2024-03-12,1,11484,Completed
+362,46062,Pixel Watch 2,Smartwatch,Uttar Pradesh,2024-04-28,1,39109,Completed
+363,74824,Pixel 9 Pro XL,Smartphone,Uttar Pradesh,2024-07-04,2,230824,Completed
+364,24794,Pixel 9 Pro XL,Smartphone,Karnataka,2024-08-03,1,57864,Completed
+365,43995,Pixel 9 Pro XL,Smartphone,Himachal Pradesh,2024-12-19,2,83412,Completed
+366,36573,Pixel 9 Pro,Smartphone,Haryana,2024-12-27,1,90912,Completed
+367,18332,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-05-05,1,21331,Completed
+368,68543,Pixel 9 Pro Fold,Smartphone,Haryana,2024-09-15,3,147057,Completed
+369,84885,Pixel Watch 3,Smartwatch,West Bengal,2024-09-19,1,37926,Pending
+370,77011,Pixel 9 Pro,Smartphone,Rajasthan,2024-04-24,2,211422,Completed
+371,72382,Pixel Buds A-Series,Earbuds,Kerala,2024-11-04,1,16873,Completed
+372,24601,Pixel Watch 3,Smartwatch,Kerala,2024-06-02,1,35449,Completed
+373,32327,Pixel 9,Smartphone,Telangana,2024-03-27,1,89277,Completed
+374,51359,Pixel Watch 2,Smartwatch,Chhattisgarh,2024-01-19,1,15832,Completed
+375,59531,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-06-17,1,86947,Pending
+376,47942,Pixel 9 Pro,Smartphone,Delhi,2024-08-31,1,67465,Return
+377,57991,Pixel Watch 3,Smartwatch,Rajasthan,2024-01-24,1,26446,Completed
+378,87904,Pixel 9,Smartphone,Karnataka,2024-12-27,1,100345,Completed
+379,61359,Pixel Buds 2a,Earbuds,Assam,2024-09-10,1,12422,Completed
+380,89349,Pixel Watch 3,Smartwatch,Assam,2024-06-09,1,22690,Completed
+381,48044,Pixel Watch 2,Smartwatch,Chhattisgarh,2024-05-16,1,32493,Return
+382,37963,Pixel 9 Pro Fold,Smartphone,Jharkhand,2024-09-28,3,215181,Completed
+383,68753,Pixel 9 Pro XL,Smartphone,West Bengal,2024-03-01,1,101696,Pending
+384,87183,Pixel Buds 2a,Earbuds,Jharkhand,2024-08-24,1,11708,Completed
+385,47643,Pixel Buds A-Series,Earbuds,Assam,2024-09-21,1,11947,Completed
+386,42133,Pixel Buds 2a,Earbuds,Punjab,2024-12-16,1,10891,Completed
+387,42854,Pixel 8a,Smartphone,Uttar Pradesh,2024-06-23,1,117750,Completed
+388,89962,Pixel 9 Pro,Smartphone,Himachal Pradesh,2024-04-25,1,61410,Completed
+389,36379,Pixel Buds 2a,Earbuds,Uttar Pradesh,2024-06-20,2,12062,Completed
+390,91200,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-06-10,2,132362,Completed
+391,86980,Pixel 9 Pro Fold,Smartphone,Bihar,2024-07-26,2,213600,Completed
+392,21408,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-03-24,1,116463,Return
+393,23180,Pixel Buds 2a,Earbuds,Delhi,2024-06-28,1,17994,Completed
+394,56141,Pixel Watch 2,Smartwatch,West Bengal,2024-05-01,1,17361,Completed
+395,89285,Pixel 9,Smartphone,Assam,2024-04-23,1,50669,Pending
+396,85889,Pixel Watch 3,Smartwatch,Delhi,2024-12-20,1,28141,Completed
+397,65455,Pixel 9 Pro Fold,Smartphone,Uttar Pradesh,2024-09-26,1,102508,Return
+398,19066,Pixel 8a,Smartphone,Gujarat,2024-05-17,1,58735,Completed
+399,14631,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-11-25,1,53259,Completed
+400,73372,Pixel 9 Pro XL,Smartphone,West Bengal,2024-12-01,1,52003,Pending
+401,68050,Pixel Watch 3,Smartwatch,Kerala,2024-04-30,1,22510,Pending
+402,38894,Pixel 8a,Smartphone,Haryana,2024-03-26,2,179862,Return
+403,96633,Pixel Watch 3,Smartwatch,West Bengal,2024-04-22,2,61020,Completed
+404,48322,Pixel 9 Pro,Smartphone,Telangana,2024-03-29,1,75134,Completed
+405,35617,Pixel Buds 2a,Earbuds,West Bengal,2024-08-15,1,14698,Completed
+406,13198,Pixel 9 Pro,Smartphone,Uttarakhand,2024-11-13,1,96014,Completed
+407,30252,Pixel Buds A-Series,Earbuds,Maharashtra,2024-02-25,2,20424,Completed
+408,14843,Pixel Buds Pro 2,Earbuds,Kerala,2024-09-02,1,17129,Completed
+409,46034,Pixel 9,Smartphone,West Bengal,2024-08-04,1,83385,Completed
+410,71373,Pixel 9 Pro XL,Smartphone,Tamil Nadu,2024-06-13,1,55344,Completed
+411,86001,Pixel Watch 3,Smartwatch,Gujarat,2024-12-15,1,36436,Return
+412,66498,Pixel 8a,Smartphone,Uttar Pradesh,2024-03-12,1,49177,Completed
+413,28905,Pixel Buds Pro 2,Earbuds,Maharashtra,2024-09-15,1,12770,Completed
+414,29547,Pixel 9 Pro Fold,Smartphone,Maharashtra,2024-10-26,1,58292,Completed
+415,28151,Pixel 9 Pro XL,Smartphone,Haryana,2024-05-23,1,62585,Completed
+416,16160,Pixel Buds Pro 2,Earbuds,Odisha,2024-10-05,1,16976,Completed
+417,84932,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-09-05,1,76133,Completed
+418,14419,Pixel 9 Pro,Smartphone,Bihar,2024-11-20,1,74379,Completed
+419,54981,Pixel Watch 2,Smartwatch,Rajasthan,2024-05-07,1,26650,Completed
+420,70767,Pixel 8a,Smartphone,Odisha,2024-03-24,2,165898,Completed
+421,67545,Pixel 9,Smartphone,Bihar,2024-06-18,1,100308,Completed
+422,48379,Pixel Buds 2a,Earbuds,Uttarakhand,2024-08-01,1,8926,Completed
+423,56488,Pixel Buds 2a,Earbuds,Punjab,2024-10-11,2,24186,Completed
+424,90479,Pixel Watch 2,Smartwatch,Himachal Pradesh,2024-02-14,1,29242,Completed
+425,77537,Pixel Buds A-Series,Earbuds,West Bengal,2024-03-13,1,14841,Completed
+426,37131,Pixel 9 Pro Fold,Smartphone,Jharkhand,2024-12-19,3,346011,Completed
+427,76096,Pixel Buds A-Series,Earbuds,Uttar Pradesh,2024-05-11,1,6934,Completed
+428,86913,Pixel Watch 2,Smartwatch,Odisha,2024-10-24,2,53446,Completed
+429,30577,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-02-16,1,7364,Pending
+430,22543,Pixel Buds 2a,Earbuds,Kerala,2024-02-22,1,7850,Completed
+431,63404,Pixel Buds A-Series,Earbuds,Haryana,2024-11-14,1,14947,Completed
+432,30938,Pixel Buds 2a,Earbuds,Jharkhand,2024-04-16,1,9582,Completed
+433,66704,Pixel 9 Pro XL,Smartphone,Odisha,2024-05-17,1,116277,Return
+434,30905,Pixel Watch 3,Smartwatch,West Bengal,2024-06-12,1,27581,Completed
+435,58613,Pixel 8a,Smartphone,Haryana,2024-08-11,3,264024,Completed
+436,21694,Pixel 9,Smartphone,Rajasthan,2024-12-09,2,130528,Completed
+437,93369,Pixel Buds A-Series,Earbuds,Odisha,2024-03-07,1,18340,Completed
+438,20888,Pixel Buds Pro 2,Earbuds,Telangana,2024-03-05,1,17446,Completed
+439,27031,Pixel Watch 2,Smartwatch,Tamil Nadu,2024-12-29,2,32680,Return
+440,73501,Pixel 9 Pro XL,Smartphone,Madhya Pradesh,2024-07-07,1,114304,Completed
+441,75991,Pixel 9 Pro Fold,Smartphone,Assam,2024-01-25,1,74999,Completed
+442,86244,Pixel 9 Pro XL,Smartphone,Gujarat,2024-03-06,1,115606,Pending
+443,41288,Pixel Buds Pro 2,Earbuds,Punjab,2024-01-25,1,21533,Completed
+444,83211,Pixel Buds A-Series,Earbuds,Gujarat,2024-06-09,1,19048,Completed
+445,79657,Pixel 9,Smartphone,Telangana,2024-09-12,2,165918,Completed
+446,10806,Pixel Buds A-Series,Earbuds,Chhattisgarh,2024-03-13,1,21345,Completed
+447,84237,Pixel Watch 2,Smartwatch,Maharashtra,2024-11-02,1,17967,Completed
+448,76609,Pixel Buds 2a,Earbuds,Telangana,2024-12-16,1,11834,Completed
+449,67778,Pixel Watch 2,Smartwatch,Haryana,2024-01-25,1,35874,Completed
+450,38512,Pixel Buds Pro 2,Earbuds,Odisha,2024-09-08,1,11509,Completed
+451,54513,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-04-24,1,113096,Completed
+452,16385,Pixel 9 Pro Fold,Smartphone,Delhi,2024-04-29,2,230438,Completed
+453,76573,Pixel Watch 3,Smartwatch,Uttar Pradesh,2024-01-18,1,31754,Completed
+454,63018,Pixel Watch 3,Smartwatch,Himachal Pradesh,2024-02-25,1,30954,Completed
+455,19368,Pixel 9,Smartphone,Punjab,2024-11-15,2,218520,Return
+456,41804,Pixel 9,Smartphone,Bihar,2024-06-21,1,72440,Completed
+457,87988,Pixel 8a,Smartphone,Delhi,2024-12-11,1,71963,Completed
+458,96483,Pixel Buds Pro 2,Earbuds,Odisha,2024-05-20,1,8229,Completed
+459,24614,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-05-19,1,11424,Completed
+460,49244,Pixel 9 Pro XL,Smartphone,Haryana,2024-03-12,1,106646,Return
+461,57410,Pixel Watch 2,Smartwatch,Odisha,2024-08-25,1,18184,Completed
+462,91058,Pixel 8a,Smartphone,Haryana,2024-12-10,1,89420,Completed
+463,51177,Pixel 9,Smartphone,Karnataka,2024-09-20,1,94476,Completed
+464,62395,Pixel 9 Pro Fold,Smartphone,Gujarat,2024-10-12,2,200158,Completed
+465,13164,Pixel 8a,Smartphone,Uttarakhand,2024-04-24,1,86115,Completed
+466,82628,Pixel 9 Pro,Smartphone,Haryana,2024-06-22,1,56802,Completed
+467,42053,Pixel Buds Pro 2,Earbuds,Kerala,2024-11-21,1,10194,Completed
+468,75075,Pixel Watch 2,Smartwatch,Himachal Pradesh,2024-12-09,1,18682,Completed
+469,78179,Pixel 9,Smartphone,Gujarat,2024-05-05,1,108700,Completed
+470,42043,Pixel 9 Pro,Smartphone,Telangana,2024-05-25,1,78377,Completed
+471,75924,Pixel 9,Smartphone,Maharashtra,2024-09-12,1,60685,Return
+472,60396,Pixel Buds Pro 2,Earbuds,Delhi,2024-05-02,1,11611,Completed
+473,60172,Pixel 9 Pro XL,Smartphone,Punjab,2024-11-21,1,88803,Completed
+474,19174,Pixel 9,Smartphone,Haryana,2024-05-21,1,88635,Completed
+475,73266,Pixel Buds A-Series,Earbuds,Odisha,2024-04-16,1,8272,Pending
+476,14563,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-04-28,1,99252,Completed
+477,53603,Pixel 9 Pro XL,Smartphone,Punjab,2024-09-24,1,81784,Completed
+478,64647,Pixel Buds Pro 2,Earbuds,Chhattisgarh,2024-05-14,1,9065,Completed
+479,96226,Pixel Watch 3,Smartwatch,Jharkhand,2024-05-03,1,28170,Completed
+480,95073,Pixel 9,Smartphone,Telangana,2024-04-14,1,111147,Completed
+481,61173,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-09-09,1,84454,Pending
+482,26965,Pixel Buds 2a,Earbuds,Tamil Nadu,2024-10-15,1,12248,Return
+483,88466,Pixel Watch 3,Smartwatch,Odisha,2024-05-04,1,15243,Completed
+484,17321,Pixel 9 Pro,Smartphone,Uttarakhand,2024-12-14,1,96119,Completed
+485,26247,Pixel 9 Pro,Smartphone,Bihar,2024-04-07,1,79878,Completed
+486,87782,Pixel Watch 2,Smartwatch,Telangana,2024-07-31,1,25806,Completed
+487,11529,Pixel 9,Smartphone,Karnataka,2024-04-17,1,83341,Completed
+488,32285,Pixel 8a,Smartphone,Maharashtra,2024-07-16,1,52820,Completed
+489,61173,Pixel Watch 2,Smartwatch,Chhattisgarh,2024-12-23,1,19398,Completed
+490,96851,Pixel 9 Pro XL,Smartphone,Kerala,2024-12-24,1,54179,Completed
+491,29358,Pixel Buds A-Series,Earbuds,Karnataka,2024-11-05,1,9001,Completed
+492,17533,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-11-18,1,28727,Pending
+493,72347,Pixel 8a,Smartphone,Telangana,2024-05-23,1,92578,Completed
+494,54421,Pixel Buds A-Series,Earbuds,Punjab,2024-12-03,1,10299,Completed
+495,42713,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-05-28,1,99444,Completed
+496,62186,Pixel 8a,Smartphone,Karnataka,2024-02-19,1,98999,Completed
+497,54689,Pixel Watch 2,Smartwatch,Gujarat,2024-05-24,1,39970,Completed
+498,64814,Pixel 9 Pro Fold,Smartphone,Rajasthan,2024-09-07,1,117836,Completed
+499,75359,Pixel Watch 2,Smartwatch,Delhi,2024-02-03,1,25633,Completed
+500,57368,Pixel 9 Pro XL,Smartphone,Telangana,2024-10-29,3,226542,Completed
+501,98516,Pixel 9 Pro,Smartphone,Gujarat,2024-09-27,3,292494,Return
+502,17866,Pixel 8a,Smartphone,Haryana,2024-10-26,1,47153,Completed
+503,76672,Pixel Buds A-Series,Earbuds,Odisha,2024-07-09,1,10416,Completed
+504,84174,Pixel 8a,Smartphone,Maharashtra,2024-03-22,1,81870,Completed
+505,32184,Pixel Watch 2,Smartwatch,Uttarakhand,2024-12-11,1,29408,Completed
+506,65186,Pixel 8a,Smartphone,Gujarat,2024-10-15,1,59612,Return
+507,34813,Pixel 9 Pro Fold,Smartphone,Maharashtra,2024-08-08,2,119364,Completed
+508,81744,Pixel Watch 3,Smartwatch,Odisha,2024-05-02,1,18078,Completed
+509,57110,Pixel 9 Pro Fold,Smartphone,Maharashtra,2024-05-09,1,47669,Completed
+510,92689,Pixel Buds A-Series,Earbuds,Haryana,2024-10-28,1,20920,Completed
+511,55901,Pixel 9 Pro Fold,Smartphone,Delhi,2024-04-16,2,178080,Completed
+512,86065,Pixel Watch 2,Smartwatch,Karnataka,2024-09-04,1,16232,Completed
+513,81742,Pixel Watch 3,Smartwatch,Bihar,2024-07-04,1,22153,Completed
+514,74594,Pixel 9 Pro,Smartphone,Assam,2024-04-12,1,79857,Pending
+515,87404,Pixel Buds A-Series,Earbuds,West Bengal,2024-09-16,1,20377,Completed
+516,47566,Pixel 9 Pro Fold,Smartphone,Telangana,2024-07-29,1,110491,Completed
+517,76356,Pixel Buds Pro 2,Earbuds,Chhattisgarh,2024-08-07,1,8416,Pending
+518,23666,Pixel 9 Pro,Smartphone,Delhi,2024-12-15,1,55591,Pending
+519,59570,Pixel 9 Pro Fold,Smartphone,West Bengal,2024-11-09,2,167946,Completed
+520,86856,Pixel Buds 2a,Earbuds,Bihar,2024-01-08,1,9798,Completed
+521,94752,Pixel 9 Pro XL,Smartphone,Telangana,2024-11-09,1,93790,Completed
+522,23129,Pixel Buds A-Series,Earbuds,Rajasthan,2024-01-09,1,17515,Completed
+523,47121,Pixel Buds A-Series,Earbuds,Chhattisgarh,2024-10-05,1,7764,Completed
+524,44054,Pixel Buds Pro 2,Earbuds,Uttar Pradesh,2024-09-03,1,15240,Completed
+525,71167,Pixel Buds Pro 2,Earbuds,Gujarat,2024-08-21,1,8737,Completed
+526,73759,Pixel Watch 3,Smartwatch,Telangana,2024-09-23,1,36722,Pending
+527,93595,Pixel 9 Pro XL,Smartphone,Odisha,2024-08-25,1,64597,Completed
+528,71253,Pixel Watch 3,Smartwatch,Uttarakhand,2024-07-31,1,33276,Return
+529,30508,Pixel Buds A-Series,Earbuds,Punjab,2024-09-08,1,17880,Completed
+530,66954,Pixel Watch 3,Smartwatch,Delhi,2024-01-05,1,29208,Completed
+531,96007,Pixel Buds Pro 2,Earbuds,Haryana,2024-05-10,2,19722,Completed
+532,42374,Pixel Buds 2a,Earbuds,Punjab,2024-05-09,1,7068,Completed
+533,38301,Pixel 8a,Smartphone,Jharkhand,2024-08-18,1,89879,Completed
+534,81291,Pixel Buds A-Series,Earbuds,Delhi,2024-06-10,1,14526,Completed
+535,85234,Pixel 9 Pro,Smartphone,Himachal Pradesh,2024-03-14,1,58525,Completed
+536,15901,Pixel 9,Smartphone,Rajasthan,2024-09-18,1,70795,Completed
+537,38212,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-11-24,2,154178,Completed
+538,96814,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-05-09,1,92271,Completed
+539,73096,Pixel 8a,Smartphone,Odisha,2024-04-22,1,54544,Completed
+540,90093,Pixel 9 Pro,Smartphone,Bihar,2024-07-24,1,113198,Pending
+541,84361,Pixel 9 Pro,Smartphone,Himachal Pradesh,2024-10-20,1,92628,Completed
+542,18100,Pixel 8a,Smartphone,Bihar,2024-04-07,1,65041,Completed
+543,66987,Pixel 8a,Smartphone,Assam,2024-04-06,1,118745,Completed
+544,43308,Pixel Buds 2a,Earbuds,Maharashtra,2024-06-23,1,11803,Completed
+545,24196,Pixel 9 Pro XL,Smartphone,Telangana,2024-12-27,2,209260,Completed
+546,30110,Pixel Watch 2,Smartwatch,Punjab,2024-01-07,1,23920,Completed
+547,29586,Pixel Watch 3,Smartwatch,Gujarat,2024-04-10,1,25256,Completed
+548,20145,Pixel Watch 2,Smartwatch,Jharkhand,2024-12-28,1,34707,Completed
+549,32977,Pixel Watch 3,Smartwatch,Delhi,2024-02-01,1,20308,Completed
+550,82601,Pixel Buds 2a,Earbuds,Odisha,2024-10-08,1,16747,Completed
+551,31965,Pixel Watch 3,Smartwatch,Uttarakhand,2024-07-14,1,35365,Completed
+552,68780,Pixel 8a,Smartphone,Bihar,2024-01-08,1,81207,Return
+553,17647,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-04-19,1,41349,Completed
+554,72807,Pixel 9 Pro,Smartphone,Karnataka,2024-03-28,2,155936,Completed
+555,76664,Pixel Buds 2a,Earbuds,Punjab,2024-04-25,1,21679,Completed
+556,38278,Pixel 9,Smartphone,Jharkhand,2024-09-28,1,50913,Completed
+557,70593,Pixel Watch 3,Smartwatch,Tamil Nadu,2024-10-02,1,30809,Completed
+558,79295,Pixel Buds Pro 2,Earbuds,Odisha,2024-12-27,1,10818,Completed
+559,70677,Pixel 9,Smartphone,Himachal Pradesh,2024-03-02,1,69219,Completed
+560,51884,Pixel Buds 2a,Earbuds,Uttarakhand,2024-11-26,1,12740,Completed
+561,52712,Pixel 9 Pro Fold,Smartphone,Madhya Pradesh,2024-11-13,1,107813,Return
+562,41924,Pixel Buds 2a,Earbuds,Punjab,2024-07-03,1,11343,Completed
+563,80972,Pixel 9 Pro Fold,Smartphone,Telangana,2024-03-02,2,197078,Completed
+564,89375,Pixel 9 Pro,Smartphone,Odisha,2024-09-12,1,47206,Completed
+565,88823,Pixel Buds A-Series,Earbuds,Karnataka,2024-02-15,1,8489,Completed
+566,38990,Pixel Buds 2a,Earbuds,West Bengal,2024-12-23,1,16318,Return
+567,85029,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-01-25,1,74222,Return
+568,96540,Pixel 9 Pro,Smartphone,West Bengal,2024-12-18,1,62868,Return
+569,93898,Pixel 9 Pro XL,Smartphone,Gujarat,2024-02-28,1,42907,Completed
+570,49755,Pixel 9 Pro Fold,Smartphone,Uttar Pradesh,2024-04-04,3,201162,Completed
+571,67391,Pixel Watch 2,Smartwatch,Karnataka,2024-07-22,1,20441,Completed
+572,51813,Pixel Buds Pro 2,Earbuds,Punjab,2024-12-30,1,17497,Completed
+573,88083,Pixel Buds Pro 2,Earbuds,Delhi,2024-09-06,1,19472,Completed
+574,18605,Pixel Watch 2,Smartwatch,Assam,2024-05-04,1,32403,Completed
+575,72748,Pixel 9,Smartphone,Uttarakhand,2024-05-24,1,113162,Return
+576,35374,Pixel Buds 2a,Earbuds,Odisha,2024-03-11,1,6188,Completed
+577,64373,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-01-19,1,108720,Pending
+578,16322,Pixel 8a,Smartphone,Telangana,2024-07-05,1,101520,Completed
+579,42490,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-06-18,1,105358,Completed
+580,11681,Pixel Buds 2a,Earbuds,Madhya Pradesh,2024-11-23,1,10146,Completed
+581,66343,Pixel Buds A-Series,Earbuds,Chhattisgarh,2024-12-29,1,13559,Completed
+582,34254,Pixel 9 Pro Fold,Smartphone,Odisha,2024-11-22,1,112637,Completed
+583,67230,Pixel Buds A-Series,Earbuds,Delhi,2024-07-25,1,14912,Completed
+584,70899,Pixel Watch 3,Smartwatch,Telangana,2024-01-26,1,26790,Completed
+585,13746,Pixel Buds Pro 2,Earbuds,West Bengal,2024-03-25,1,21199,Completed
+586,26901,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-07-12,1,14945,Completed
+587,17433,Pixel Buds A-Series,Earbuds,Bihar,2024-02-06,1,18484,Completed
+588,29191,Pixel Buds Pro 2,Earbuds,Haryana,2024-08-13,1,21269,Completed
+589,96884,Pixel Watch 2,Smartwatch,Odisha,2024-11-08,1,34342,Return
+590,95190,Pixel 9 Pro XL,Smartphone,Delhi,2024-09-04,1,48119,Completed
+591,60598,Pixel Watch 2,Smartwatch,Odisha,2024-05-08,1,33199,Completed
+592,30549,Pixel 9,Smartphone,Himachal Pradesh,2024-07-12,1,71450,Completed
+593,84815,Pixel Watch 3,Smartwatch,Uttar Pradesh,2024-09-22,1,36421,Completed
+594,68009,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-07-05,1,77542,Completed
+595,53485,Pixel Watch 3,Smartwatch,Tamil Nadu,2024-08-20,1,25643,Completed
+596,55845,Pixel 9,Smartphone,Punjab,2024-02-09,1,87048,Completed
+597,14085,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-11-15,1,113270,Completed
+598,51280,Pixel 8a,Smartphone,Odisha,2024-07-22,1,56886,Pending
+599,59732,Pixel Buds 2a,Earbuds,Uttarakhand,2024-01-12,1,10657,Completed
+600,13223,Pixel Watch 2,Smartwatch,Gujarat,2024-02-26,1,33532,Completed
+601,21891,Pixel 9,Smartphone,Haryana,2024-06-02,2,214396,Completed
+602,89951,Pixel 9 Pro,Smartphone,Jharkhand,2024-06-14,1,102179,Completed
+603,41759,Pixel Buds A-Series,Earbuds,Delhi,2024-11-05,1,18651,Completed
+604,94585,Pixel 9 Pro,Smartphone,Bihar,2024-12-10,1,71362,Completed
+605,42897,Pixel Watch 3,Smartwatch,Haryana,2024-05-15,1,23762,Completed
+606,91711,Pixel 9 Pro,Smartphone,West Bengal,2024-04-18,1,66540,Completed
+607,72450,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-08-17,1,93703,Completed
+608,57229,Pixel Buds 2a,Earbuds,Chhattisgarh,2024-11-08,1,11417,Completed
+609,55589,Pixel Buds Pro 2,Earbuds,Kerala,2024-04-06,1,19173,Completed
+610,95220,Pixel Watch 2,Smartwatch,Punjab,2024-11-07,1,23607,Completed
+611,12152,Pixel Buds A-Series,Earbuds,Maharashtra,2024-03-02,1,21724,Completed
+612,88317,Pixel Watch 2,Smartwatch,Chhattisgarh,2024-11-25,1,39349,Completed
+613,93974,Pixel Watch 2,Smartwatch,Bihar,2024-05-25,1,38678,Completed
+614,28851,Pixel Watch 2,Smartwatch,Delhi,2024-06-26,1,27561,Completed
+615,76208,Pixel 8a,Smartphone,Uttarakhand,2024-12-07,1,119457,Pending
+616,66310,Pixel Buds A-Series,Earbuds,Tamil Nadu,2024-06-11,1,19758,Completed
+617,88599,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-02-19,1,67458,Return
+618,16613,Pixel Watch 2,Smartwatch,Delhi,2024-05-02,1,28527,Completed
+619,77447,Pixel Buds 2a,Earbuds,Madhya Pradesh,2024-01-08,1,11458,Completed
+620,79055,Pixel 9 Pro XL,Smartphone,Delhi,2024-07-06,1,55312,Completed
+621,12521,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-06-19,1,21519,Pending
+622,83797,Pixel 8a,Smartphone,Madhya Pradesh,2024-08-10,1,44601,Pending
+623,76905,Pixel Watch 2,Smartwatch,Delhi,2024-07-29,1,39733,Completed
+624,21791,Pixel 9 Pro XL,Smartphone,Rajasthan,2024-08-27,2,225250,Return
+625,56093,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-06-08,1,17480,Completed
+626,34709,Pixel Watch 3,Smartwatch,Himachal Pradesh,2024-06-25,1,33592,Pending
+627,14431,Pixel Watch 3,Smartwatch,Uttar Pradesh,2024-06-02,1,24787,Return
+628,77520,Pixel 9 Pro Fold,Smartphone,Gujarat,2024-10-12,1,64321,Completed
+629,58197,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-07-21,1,89377,Completed
+630,65945,Pixel 8a,Smartphone,Gujarat,2024-09-09,1,64802,Completed
+631,32656,Pixel 9 Pro,Smartphone,Uttarakhand,2024-10-09,2,174222,Completed
+632,11025,Pixel Watch 3,Smartwatch,Assam,2024-09-27,2,44154,Completed
+633,81485,Pixel Watch 2,Smartwatch,Uttarakhand,2024-04-04,1,31030,Completed
+634,90237,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-01-05,2,141986,Completed
+635,39691,Pixel Watch 3,Smartwatch,Kerala,2024-04-28,1,23263,Completed
+636,22515,Pixel Buds Pro 2,Earbuds,Punjab,2024-07-17,1,9606,Completed
+637,15846,Pixel 9 Pro Fold,Smartphone,Odisha,2024-08-01,1,95752,Completed
+638,91021,Pixel 8a,Smartphone,Haryana,2024-10-31,1,117757,Completed
+639,26269,Pixel 9 Pro Fold,Smartphone,Rajasthan,2024-11-23,1,82697,Completed
+640,22806,Pixel Watch 3,Smartwatch,Tamil Nadu,2024-01-21,1,33550,Return
+641,72888,Pixel Buds Pro 2,Earbuds,Haryana,2024-01-25,1,6696,Completed
+642,71282,Pixel 9 Pro XL,Smartphone,Odisha,2024-03-16,1,79639,Completed
+643,14744,Pixel 9 Pro,Smartphone,Uttarakhand,2024-06-27,1,46773,Completed
+644,34240,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-06-26,1,41674,Completed
+645,88009,Pixel 9 Pro XL,Smartphone,Assam,2024-06-09,2,217234,Completed
+646,66686,Pixel Buds A-Series,Earbuds,Haryana,2024-04-08,1,16003,Completed
+647,95057,Pixel Watch 3,Smartwatch,Odisha,2024-07-29,1,29140,Completed
+648,34167,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-05-08,1,15753,Completed
+649,61327,Pixel 9 Pro XL,Smartphone,Delhi,2024-08-04,1,60854,Completed
+650,51780,Pixel 9 Pro XL,Smartphone,Delhi,2024-05-21,1,47559,Completed
+651,47217,Pixel Watch 2,Smartwatch,Madhya Pradesh,2024-01-22,1,35595,Completed
+652,16860,Pixel 9 Pro Fold,Smartphone,Odisha,2024-05-01,1,115989,Completed
+653,95210,Pixel 9 Pro Fold,Smartphone,Rajasthan,2024-02-16,3,121893,Completed
+654,65273,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-07-28,1,68650,Return
+655,51646,Pixel 9 Pro Fold,Smartphone,Haryana,2024-11-27,1,48312,Completed
+656,84355,Pixel Buds A-Series,Earbuds,Uttarakhand,2024-03-15,1,17238,Completed
+657,67631,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-11-02,1,56696,Completed
+658,23351,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-02-08,2,130770,Completed
+659,45872,Pixel 9 Pro Fold,Smartphone,Kerala,2024-12-16,2,109230,Completed
+660,33939,Pixel 9 Pro XL,Smartphone,Uttar Pradesh,2024-07-03,3,278241,Completed
+661,62626,Pixel Buds 2a,Earbuds,Haryana,2024-07-12,1,20252,Pending
+662,36118,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-07-31,2,179210,Completed
+663,28642,Pixel Watch 2,Smartwatch,Maharashtra,2024-06-21,1,38150,Completed
+664,32901,Pixel Buds A-Series,Earbuds,Punjab,2024-05-15,1,20958,Completed
+665,51773,Pixel Watch 3,Smartwatch,Bihar,2024-12-23,1,28905,Pending
+666,52476,Pixel Watch 2,Smartwatch,West Bengal,2024-04-10,1,27465,Completed
+667,55233,Pixel 9 Pro,Smartphone,Rajasthan,2024-02-23,1,48093,Return
+668,44588,Pixel 9,Smartphone,Punjab,2024-12-07,1,90034,Completed
+669,14578,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-08-14,2,24456,Completed
+670,15170,Pixel Watch 2,Smartwatch,Haryana,2024-11-09,1,26915,Pending
+671,49702,Pixel 9 Pro XL,Smartphone,Chhattisgarh,2024-02-09,2,143058,Completed
+672,19617,Pixel Watch 3,Smartwatch,Delhi,2024-09-13,2,61818,Completed
+673,85841,Pixel 9 Pro,Smartphone,Punjab,2024-02-17,1,117910,Completed
+674,40333,Pixel 8a,Smartphone,Maharashtra,2024-06-23,1,115213,Completed
+675,80965,Pixel 9,Smartphone,Telangana,2024-01-19,1,90863,Return
+676,50758,Pixel 9,Smartphone,Gujarat,2024-12-02,1,116427,Completed
+677,36789,Pixel 8a,Smartphone,Uttarakhand,2024-12-01,1,67121,Completed
+678,32520,Pixel 9 Pro,Smartphone,Chhattisgarh,2024-03-19,1,99965,Completed
+679,15583,Pixel 9 Pro XL,Smartphone,Rajasthan,2024-01-25,3,244956,Completed
+680,82963,Pixel Buds A-Series,Earbuds,Rajasthan,2024-01-23,1,21383,Completed
+681,49066,Pixel 9,Smartphone,Gujarat,2024-03-14,1,60640,Completed
+682,95910,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-11-15,1,67804,Completed
+683,20944,Pixel Watch 2,Smartwatch,Jharkhand,2024-03-05,1,27132,Completed
+684,62254,Pixel Watch 2,Smartwatch,Telangana,2024-05-21,1,37553,Completed
+685,39830,Pixel 9,Smartphone,Maharashtra,2024-11-26,2,109806,Completed
+686,41000,Pixel 8a,Smartphone,Haryana,2024-10-09,3,311610,Completed
+687,43088,Pixel Buds A-Series,Earbuds,Telangana,2024-03-18,1,20416,Completed
+688,27879,Pixel Buds Pro 2,Earbuds,Gujarat,2024-07-09,1,18337,Completed
+689,21329,Pixel Buds Pro 2,Earbuds,Gujarat,2024-07-10,1,18428,Completed
+690,64359,Pixel Buds A-Series,Earbuds,Uttarakhand,2024-08-16,1,7044,Completed
+691,65659,Pixel 8a,Smartphone,Delhi,2024-07-31,1,43788,Completed
+692,43106,Pixel 9 Pro Fold,Smartphone,Assam,2024-05-12,1,87067,Completed
+693,74471,Pixel Buds 2a,Earbuds,Assam,2024-01-21,1,19922,Completed
+694,81603,Pixel Buds 2a,Earbuds,Himachal Pradesh,2024-09-21,1,14274,Completed
+695,58380,Pixel 9 Pro XL,Smartphone,Himachal Pradesh,2024-11-01,1,61822,Completed
+696,42515,Pixel Buds Pro 2,Earbuds,Himachal Pradesh,2024-12-24,1,8577,Completed
+697,44074,Pixel Watch 3,Smartwatch,Kerala,2024-11-01,1,15695,Completed
+698,55559,Pixel Buds Pro 2,Earbuds,Kerala,2024-07-05,1,12110,Return
+699,33683,Pixel 8a,Smartphone,Karnataka,2024-11-24,2,86638,Completed
+700,83327,Pixel 8a,Smartphone,Uttarakhand,2024-02-10,1,43146,Pending
+701,97192,Pixel 8a,Smartphone,Maharashtra,2024-06-19,1,65697,Completed
+702,65264,Pixel 8a,Smartphone,Madhya Pradesh,2024-03-04,1,99175,Completed
+703,42343,Pixel Buds 2a,Earbuds,Uttar Pradesh,2024-11-18,1,21584,Completed
+704,93862,Pixel 9,Smartphone,Gujarat,2024-04-18,1,85339,Completed
+705,90287,Pixel Buds Pro 2,Earbuds,Odisha,2024-04-07,1,15657,Completed
+706,39081,Pixel 8a,Smartphone,West Bengal,2024-12-06,1,47215,Completed
+707,85258,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-03-25,2,191984,Completed
+708,12455,Pixel Watch 3,Smartwatch,Telangana,2024-04-27,1,31125,Completed
+709,86024,Pixel Buds 2a,Earbuds,Chhattisgarh,2024-11-30,1,16243,Completed
+710,33495,Pixel 9 Pro,Smartphone,Punjab,2024-11-09,1,89545,Completed
+711,50225,Pixel Buds 2a,Earbuds,Tamil Nadu,2024-11-06,1,13928,Completed
+712,35132,Pixel Buds 2a,Earbuds,Telangana,2024-01-31,1,16611,Completed
+713,90049,Pixel Buds Pro 2,Earbuds,Uttarakhand,2024-07-16,1,14470,Completed
+714,62512,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-07-04,1,17086,Completed
+715,81274,Pixel 9,Smartphone,Assam,2024-02-21,1,92056,Completed
+716,92790,Pixel Buds 2a,Earbuds,Rajasthan,2024-03-25,1,15805,Completed
+717,76947,Pixel Watch 2,Smartwatch,Bihar,2024-04-02,1,23127,Completed
+718,21633,Pixel Buds Pro 2,Earbuds,Punjab,2024-11-02,1,13710,Completed
+719,46676,Pixel Buds A-Series,Earbuds,Uttar Pradesh,2024-08-03,1,7733,Completed
+720,19308,Pixel 9,Smartphone,Karnataka,2024-08-11,2,187712,Completed
+721,46371,Pixel 9 Pro,Smartphone,Kerala,2024-04-11,1,58994,Completed
+722,75294,Pixel Buds 2a,Earbuds,Madhya Pradesh,2024-01-30,1,13215,Completed
+723,71206,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-07-01,1,100431,Pending
+724,29603,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-12-05,1,13981,Completed
+725,95649,Pixel 9 Pro,Smartphone,Punjab,2024-11-08,1,108622,Return
+726,76003,Pixel Watch 2,Smartwatch,Punjab,2024-09-17,1,32452,Completed
+727,54940,Pixel Buds A-Series,Earbuds,Odisha,2024-11-12,1,13356,Completed
+728,92917,Pixel 9,Smartphone,Jharkhand,2024-05-27,2,180086,Completed
+729,54259,Pixel 9 Pro XL,Smartphone,Madhya Pradesh,2024-08-10,1,58908,Completed
+730,90822,Pixel 8a,Smartphone,Madhya Pradesh,2024-05-11,1,100534,Completed
+731,74746,Pixel 8a,Smartphone,Delhi,2024-04-20,1,107156,Completed
+732,16263,Pixel 9 Pro Fold,Smartphone,Madhya Pradesh,2024-07-26,1,49517,Pending
+733,43948,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-06-07,1,46415,Completed
+734,81167,Pixel 9 Pro Fold,Smartphone,Chhattisgarh,2024-11-07,1,114259,Completed
+735,12693,Pixel Buds A-Series,Earbuds,Delhi,2024-09-27,1,17730,Pending
+736,12860,Pixel Watch 3,Smartwatch,Uttar Pradesh,2024-11-09,1,35619,Completed
+737,54513,Pixel Buds 2a,Earbuds,West Bengal,2024-07-18,1,15316,Completed
+738,92046,Pixel Watch 3,Smartwatch,Odisha,2024-09-13,1,34952,Completed
+739,31734,Pixel Buds 2a,Earbuds,Himachal Pradesh,2024-06-16,1,8040,Completed
+740,79104,Pixel 9 Pro XL,Smartphone,Kerala,2024-07-03,1,76157,Completed
+741,59490,Pixel Buds A-Series,Earbuds,Assam,2024-05-14,1,18630,Completed
+742,90745,Pixel 8a,Smartphone,Uttarakhand,2024-10-27,1,41167,Completed
+743,43722,Pixel Buds A-Series,Earbuds,Gujarat,2024-02-18,1,7900,Completed
+744,90544,Pixel 9,Smartphone,Delhi,2024-10-11,2,236418,Completed
+745,86864,Pixel Watch 3,Smartwatch,Delhi,2024-03-25,1,38923,Pending
+746,78641,Pixel 9,Smartphone,Punjab,2024-06-05,1,104333,Completed
+747,32692,Pixel 9,Smartphone,Odisha,2024-02-09,1,79913,Completed
+748,31686,Pixel 9 Pro,Smartphone,Delhi,2024-02-04,1,43610,Completed
+749,87564,Pixel 9,Smartphone,West Bengal,2024-09-26,2,127792,Pending
+750,66630,Pixel Buds 2a,Earbuds,Tamil Nadu,2024-08-26,1,11331,Completed
+751,64330,Pixel Buds A-Series,Earbuds,Rajasthan,2024-07-12,1,6175,Completed
+752,63185,Pixel 9 Pro Fold,Smartphone,Madhya Pradesh,2024-06-15,1,72194,Completed
+753,73777,Pixel 9 Pro,Smartphone,Telangana,2024-11-30,3,239091,Return
+754,71630,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-08-13,1,74278,Completed
+755,28060,Pixel Buds 2a,Earbuds,Uttar Pradesh,2024-09-27,1,13866,Completed
+756,89489,Pixel 9 Pro Fold,Smartphone,Assam,2024-04-03,1,83916,Completed
+757,71204,Pixel Buds Pro 2,Earbuds,Bihar,2024-11-06,1,18801,Completed
+758,94550,Pixel Buds A-Series,Earbuds,Gujarat,2024-10-25,1,11900,Completed
+759,49635,Pixel Watch 3,Smartwatch,Uttarakhand,2024-01-29,2,62986,Completed
+760,64066,Pixel 8a,Smartphone,Gujarat,2024-06-06,1,70299,Completed
+761,85226,Pixel Watch 2,Smartwatch,Rajasthan,2024-01-11,1,39674,Pending
+762,41586,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-08-08,1,15805,Completed
+763,85943,Pixel 8a,Smartphone,Uttarakhand,2024-10-09,1,118147,Completed
+764,66406,Pixel 9 Pro Fold,Smartphone,Telangana,2024-05-27,1,93232,Completed
+765,84819,Pixel Watch 3,Smartwatch,Bihar,2024-01-15,1,23720,Completed
+766,45587,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-09-21,1,15790,Completed
+767,41055,Pixel 9 Pro XL,Smartphone,Madhya Pradesh,2024-10-22,1,109416,Completed
+768,80703,Pixel 9,Smartphone,Odisha,2024-10-07,1,58511,Return
+769,20411,Pixel Buds Pro 2,Earbuds,Madhya Pradesh,2024-03-11,1,16822,Completed
+770,10692,Pixel 9 Pro Fold,Smartphone,Bihar,2024-06-03,1,55592,Completed
+771,93149,Pixel 9 Pro Fold,Smartphone,Himachal Pradesh,2024-07-29,1,74800,Completed
+772,39523,Pixel Buds 2a,Earbuds,West Bengal,2024-07-31,1,21230,Completed
+773,36362,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-05-21,1,17104,Completed
+774,99645,Pixel 9 Pro XL,Smartphone,Punjab,2024-02-19,1,89921,Completed
+775,15046,Pixel 9 Pro XL,Smartphone,Assam,2024-09-02,1,94590,Completed
+776,98155,Pixel 9 Pro XL,Smartphone,Delhi,2024-11-07,1,46923,Return
+777,41433,Pixel Buds Pro 2,Earbuds,Karnataka,2024-10-25,1,11082,Completed
+778,20164,Pixel Buds A-Series,Earbuds,Uttar Pradesh,2024-08-17,1,6021,Completed
+779,66671,Pixel 9 Pro Fold,Smartphone,Odisha,2024-07-08,1,105924,Completed
+780,87291,Pixel 9 Pro XL,Smartphone,Tamil Nadu,2024-07-28,1,57864,Completed
+781,54914,Pixel 8a,Smartphone,Chhattisgarh,2024-05-26,3,293781,Completed
+782,82778,Pixel 9 Pro XL,Smartphone,Gujarat,2024-08-09,3,351888,Completed
+783,72013,Pixel Buds A-Series,Earbuds,Uttar Pradesh,2024-04-09,1,17905,Completed
+784,89171,Pixel 9 Pro Fold,Smartphone,Maharashtra,2024-07-11,1,49377,Return
+785,79171,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-07-27,1,58183,Completed
+786,11541,Pixel 9 Pro,Smartphone,Maharashtra,2024-09-06,1,101008,Completed
+787,22632,Pixel Watch 2,Smartwatch,Gujarat,2024-09-29,1,17889,Completed
+788,12924,Pixel Buds 2a,Earbuds,Madhya Pradesh,2024-10-21,1,17169,Completed
+789,57305,Pixel Buds A-Series,Earbuds,Kerala,2024-11-16,1,9963,Completed
+790,37205,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-04-22,1,9886,Completed
+791,97673,Pixel 9 Pro XL,Smartphone,Madhya Pradesh,2024-02-06,2,204302,Pending
+792,63204,Pixel 8a,Smartphone,Gujarat,2024-06-03,1,97317,Completed
+793,67834,Pixel 9,Smartphone,Bihar,2024-01-13,3,241260,Completed
+794,31907,Pixel 8a,Smartphone,Haryana,2024-12-12,1,103424,Completed
+795,15950,Pixel 9,Smartphone,Assam,2024-07-09,1,85634,Completed
+796,80597,Pixel 9 Pro XL,Smartphone,Karnataka,2024-03-29,2,234896,Completed
+797,93148,Pixel 9,Smartphone,Delhi,2024-11-27,1,106558,Completed
+798,31560,Pixel Buds 2a,Earbuds,Jharkhand,2024-04-21,1,6996,Pending
+799,12353,Pixel Watch 2,Smartwatch,Karnataka,2024-12-06,1,20163,Completed
+800,94916,Pixel Buds 2a,Earbuds,Himachal Pradesh,2024-06-07,1,11900,Pending
+801,63388,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-07-26,1,115687,Completed
+802,93862,Pixel 9 Pro XL,Smartphone,Maharashtra,2024-09-11,1,105821,Completed
+803,33965,Pixel Watch 2,Smartwatch,Uttarakhand,2024-10-18,1,37393,Return
+804,27946,Pixel 9 Pro,Smartphone,Delhi,2024-05-17,1,114437,Completed
+805,19804,Pixel 8a,Smartphone,Assam,2024-12-15,1,78872,Completed
+806,41237,Pixel 9,Smartphone,Jharkhand,2024-08-09,1,42536,Completed
+807,93909,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-02-02,1,113986,Completed
+808,80563,Pixel 8a,Smartphone,Tamil Nadu,2024-05-28,1,104315,Completed
+809,36910,Pixel 9 Pro Fold,Smartphone,Telangana,2024-10-11,2,121794,Completed
+810,87033,Pixel Watch 3,Smartwatch,Kerala,2024-04-21,1,24651,Completed
+811,61677,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-10-09,2,173918,Completed
+812,69215,Pixel 9,Smartphone,Chhattisgarh,2024-03-31,3,309777,Completed
+813,77397,Pixel 9 Pro XL,Smartphone,Odisha,2024-10-21,2,176194,Completed
+814,86352,Pixel 9,Smartphone,Uttarakhand,2024-08-01,1,84843,Completed
+815,14670,Pixel 9 Pro Fold,Smartphone,Haryana,2024-08-05,1,79998,Completed
+816,55674,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-07-11,1,85158,Completed
+817,87484,Pixel 9 Pro XL,Smartphone,Rajasthan,2024-07-09,1,96745,Completed
+818,58798,Pixel 9,Smartphone,Rajasthan,2024-05-13,1,109422,Completed
+819,54027,Pixel Watch 2,Smartwatch,Uttar Pradesh,2024-07-23,1,25699,Completed
+820,42681,Pixel Buds 2a,Earbuds,Maharashtra,2024-01-23,1,9444,Completed
+821,22382,Pixel 9 Pro XL,Smartphone,Jharkhand,2024-08-19,1,66265,Completed
+822,11569,Pixel Watch 2,Smartwatch,Uttar Pradesh,2024-04-23,1,20543,Completed
+823,10672,Pixel 9,Smartphone,Himachal Pradesh,2024-01-11,1,111149,Completed
+824,10359,Pixel 9 Pro,Smartphone,Odisha,2024-03-10,2,174958,Completed
+825,79923,Pixel 9 Pro Fold,Smartphone,Kerala,2024-12-04,1,109377,Completed
+826,75402,Pixel Buds 2a,Earbuds,Bihar,2024-02-06,2,39584,Completed
+827,60741,Pixel Buds Pro 2,Earbuds,Tamil Nadu,2024-05-12,1,15338,Completed
+828,66346,Pixel 9 Pro Fold,Smartphone,West Bengal,2024-09-09,3,163929,Completed
+829,55971,Pixel 9 Pro Fold,Smartphone,Haryana,2024-01-30,2,145706,Completed
+830,71417,Pixel 9,Smartphone,Madhya Pradesh,2024-02-04,1,70261,Completed
+831,61902,Pixel Buds Pro 2,Earbuds,Maharashtra,2024-07-17,1,15984,Completed
+832,98264,Pixel Buds A-Series,Earbuds,Bihar,2024-03-22,1,9553,Completed
+833,26153,Pixel Buds A-Series,Earbuds,Assam,2024-06-02,1,14515,Completed
+834,56976,Pixel Watch 2,Smartwatch,Punjab,2024-02-26,1,16017,Completed
+835,93967,Pixel 9 Pro Fold,Smartphone,Telangana,2024-10-07,2,211488,Completed
+836,42860,Pixel Watch 2,Smartwatch,Telangana,2024-03-10,1,32611,Completed
+837,68702,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-06-15,1,7741,Completed
+838,15209,Pixel Buds 2a,Earbuds,Jharkhand,2024-10-03,1,20541,Completed
+839,69919,Pixel Watch 2,Smartwatch,Telangana,2024-12-09,1,34397,Completed
+840,71050,Pixel 9,Smartphone,Telangana,2024-07-26,1,100969,Completed
+841,29486,Pixel Buds 2a,Earbuds,Uttarakhand,2024-12-27,1,16478,Completed
+842,91172,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-08-03,1,19057,Completed
+843,58532,Pixel 9 Pro,Smartphone,Gujarat,2024-04-14,1,98148,Return
+844,61782,Pixel Buds A-Series,Earbuds,Rajasthan,2024-10-30,1,6746,Completed
+845,81085,Pixel 9,Smartphone,Madhya Pradesh,2024-09-04,1,97079,Completed
+846,88435,Pixel 8a,Smartphone,Rajasthan,2024-05-31,1,80304,Completed
+847,92441,Pixel Buds Pro 2,Earbuds,Uttar Pradesh,2024-05-23,1,6072,Completed
+848,99379,Pixel Watch 3,Smartwatch,West Bengal,2024-03-01,1,22147,Completed
+849,97184,Pixel 9 Pro,Smartphone,Chhattisgarh,2024-10-09,2,176774,Completed
+850,50493,Pixel 9 Pro Fold,Smartphone,Karnataka,2024-01-05,1,63981,Completed
+851,19672,Pixel Buds 2a,Earbuds,Jharkhand,2024-08-16,1,7584,Pending
+852,13081,Pixel Buds 2a,Earbuds,Maharashtra,2024-03-22,1,21686,Completed
+853,25103,Pixel 9,Smartphone,Odisha,2024-12-30,1,88642,Completed
+854,58901,Pixel 9 Pro,Smartphone,Uttarakhand,2024-03-09,2,184282,Completed
+855,96574,Pixel 8a,Smartphone,Jharkhand,2024-08-29,1,69813,Completed
+856,83663,Pixel Buds 2a,Earbuds,Rajasthan,2024-06-06,2,36620,Completed
+857,96906,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-03-15,1,53595,Completed
+858,53392,Pixel Watch 3,Smartwatch,Jharkhand,2024-07-13,1,21773,Completed
+859,22751,Pixel 9 Pro XL,Smartphone,Delhi,2024-02-04,3,204414,Completed
+860,76132,Pixel 8a,Smartphone,Odisha,2024-03-02,2,156870,Completed
+861,25605,Pixel 9 Pro XL,Smartphone,Uttar Pradesh,2024-06-27,2,178772,Return
+862,30345,Pixel Buds A-Series,Earbuds,Karnataka,2024-05-14,1,7395,Completed
+863,12255,Pixel Buds A-Series,Earbuds,Punjab,2024-10-10,1,15871,Completed
+864,70840,Pixel Buds 2a,Earbuds,Karnataka,2024-08-14,1,9463,Completed
+865,39265,Pixel 9 Pro XL,Smartphone,Karnataka,2024-02-12,2,117466,Return
+866,28196,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-02-28,2,128982,Completed
+867,85787,Pixel Buds Pro 2,Earbuds,Jharkhand,2024-02-18,1,6692,Completed
+868,90602,Pixel Watch 2,Smartwatch,Telangana,2024-11-12,1,22895,Completed
+869,46802,Pixel 9,Smartphone,Kerala,2024-10-27,1,53615,Completed
+870,90016,Pixel 9 Pro,Smartphone,Himachal Pradesh,2024-06-13,1,66429,Completed
+871,79178,Pixel Buds 2a,Earbuds,Uttarakhand,2024-02-29,1,6183,Completed
+872,88374,Pixel 9 Pro Fold,Smartphone,Gujarat,2024-02-05,1,119274,Completed
+873,24408,Pixel Watch 3,Smartwatch,Jharkhand,2024-08-08,1,31692,Completed
+874,23343,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-01-13,1,52966,Completed
+875,76792,Pixel 9,Smartphone,Jharkhand,2024-03-04,1,119283,Completed
+876,27977,Pixel Watch 3,Smartwatch,Haryana,2024-03-27,1,25584,Completed
+877,96805,Pixel 8a,Smartphone,Odisha,2024-01-16,1,58553,Return
+878,54026,Pixel 9 Pro XL,Smartphone,Assam,2024-10-03,1,52882,Pending
+879,63609,Pixel 9,Smartphone,Uttarakhand,2024-02-29,1,49567,Completed
+880,47525,Pixel Watch 2,Smartwatch,Delhi,2024-01-09,1,29387,Completed
+881,75295,Pixel 9,Smartphone,Tamil Nadu,2024-09-28,1,56995,Return
+882,64981,Pixel 9 Pro Fold,Smartphone,Delhi,2024-06-17,1,43492,Completed
+883,15021,Pixel Watch 3,Smartwatch,Delhi,2024-01-09,1,19656,Completed
+884,20202,Pixel Watch 2,Smartwatch,Chhattisgarh,2024-04-25,1,23956,Completed
+885,47196,Pixel Watch 2,Smartwatch,Uttarakhand,2024-08-17,1,25089,Pending
+886,59474,Pixel Buds A-Series,Earbuds,Rajasthan,2024-04-30,1,21078,Completed
+887,38823,Pixel Watch 2,Smartwatch,Punjab,2024-12-13,1,25447,Completed
+888,85878,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-04-02,1,15509,Completed
+889,35379,Pixel Watch 3,Smartwatch,Maharashtra,2024-05-05,1,26091,Completed
+890,80055,Pixel 8a,Smartphone,Himachal Pradesh,2024-09-29,1,82816,Completed
+891,43016,Pixel 9 Pro XL,Smartphone,Karnataka,2024-07-07,1,98457,Completed
+892,48137,Pixel Buds A-Series,Earbuds,Uttarakhand,2024-12-16,1,18660,Completed
+893,95848,Pixel 9 Pro Fold,Smartphone,Tamil Nadu,2024-06-07,1,70461,Completed
+894,43423,Pixel Watch 3,Smartwatch,Jharkhand,2024-02-27,2,64654,Completed
+895,96441,Pixel 9 Pro Fold,Smartphone,West Bengal,2024-12-19,1,90256,Return
+896,59464,Pixel Watch 2,Smartwatch,Odisha,2024-09-08,1,22597,Pending
+897,62912,Pixel 9 Pro,Smartphone,Gujarat,2024-11-27,1,68633,Completed
+898,98940,Pixel Buds 2a,Earbuds,Rajasthan,2024-09-03,1,19543,Completed
+899,39923,Pixel 9 Pro,Smartphone,Madhya Pradesh,2024-07-19,3,197565,Return
+900,71269,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-11-07,1,14330,Completed
+901,11943,Pixel Buds A-Series,Earbuds,Gujarat,2024-08-05,1,12050,Completed
+902,26262,Pixel Buds A-Series,Earbuds,Odisha,2024-07-14,1,19956,Completed
+903,86437,Pixel Buds Pro 2,Earbuds,Jharkhand,2024-05-01,1,13005,Completed
+904,88176,Pixel Buds 2a,Earbuds,Karnataka,2024-12-27,1,7650,Completed
+905,59544,Pixel 9,Smartphone,Karnataka,2024-11-24,1,79488,Completed
+906,17869,Pixel Watch 2,Smartwatch,Himachal Pradesh,2024-08-27,1,23861,Completed
+907,86601,Pixel 8a,Smartphone,Uttarakhand,2024-11-19,1,116224,Completed
+908,86625,Pixel Buds Pro 2,Earbuds,Assam,2024-05-15,1,16117,Completed
+909,72279,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-06-09,2,192394,Completed
+910,68617,Pixel Buds 2a,Earbuds,Assam,2024-05-31,1,18081,Completed
+911,37762,Pixel 8a,Smartphone,Delhi,2024-07-31,3,128481,Completed
+912,86010,Pixel 8a,Smartphone,Himachal Pradesh,2024-07-04,1,103744,Completed
+913,39196,Pixel Buds 2a,Earbuds,Punjab,2024-11-07,1,15822,Completed
+914,79345,Pixel Buds 2a,Earbuds,Kerala,2024-01-25,1,10669,Completed
+915,72211,Pixel Watch 2,Smartwatch,Haryana,2024-04-27,2,57904,Pending
+916,81997,Pixel 9,Smartphone,Odisha,2024-12-12,1,68109,Completed
+917,77808,Pixel 9,Smartphone,Telangana,2024-01-16,1,74204,Completed
+918,81112,Pixel 8a,Smartphone,Bihar,2024-07-25,2,189994,Completed
+919,45326,Pixel 9,Smartphone,Haryana,2024-07-09,1,110349,Completed
+920,38492,Pixel Buds Pro 2,Earbuds,Kerala,2024-05-19,1,8913,Completed
+921,72985,Pixel 9,Smartphone,Telangana,2024-10-30,1,119572,Completed
+922,10250,Pixel 9,Smartphone,Himachal Pradesh,2024-04-18,1,61671,Completed
+923,44665,Pixel 9 Pro Fold,Smartphone,Jharkhand,2024-10-09,1,72746,Completed
+924,40218,Pixel Buds A-Series,Earbuds,Assam,2024-11-11,1,12194,Pending
+925,33116,Pixel Watch 3,Smartwatch,Uttar Pradesh,2024-03-26,1,24277,Completed
+926,56841,Pixel Buds Pro 2,Earbuds,Odisha,2024-02-21,1,20385,Completed
+927,60132,Pixel Watch 3,Smartwatch,Uttarakhand,2024-01-04,1,19415,Return
+928,68217,Pixel 9 Pro XL,Smartphone,Rajasthan,2024-05-21,1,60730,Completed
+929,21729,Pixel Watch 3,Smartwatch,Punjab,2024-07-02,2,50766,Completed
+930,11285,Pixel Buds Pro 2,Earbuds,Chhattisgarh,2024-03-07,1,13693,Completed
+931,85586,Pixel Watch 3,Smartwatch,Jharkhand,2024-05-24,1,24574,Return
+932,88132,Pixel 9 Pro Fold,Smartphone,Odisha,2024-08-20,1,88752,Completed
+933,21723,Pixel Buds A-Series,Earbuds,Jharkhand,2024-10-13,1,8551,Completed
+934,68403,Pixel Watch 2,Smartwatch,Gujarat,2024-07-25,1,34248,Completed
+935,91921,Pixel Watch 2,Smartwatch,Madhya Pradesh,2024-09-14,1,20713,Completed
+936,91470,Pixel Watch 2,Smartwatch,Maharashtra,2024-11-11,1,35453,Completed
+937,84140,Pixel Buds Pro 2,Earbuds,Odisha,2024-01-30,1,19997,Completed
+938,72496,Pixel Buds Pro 2,Earbuds,Odisha,2024-07-08,1,21238,Return
+939,73512,Pixel 9 Pro,Smartphone,Uttar Pradesh,2024-08-23,1,98496,Completed
+940,64483,Pixel 9 Pro XL,Smartphone,Delhi,2024-07-19,1,51440,Completed
+941,74482,Pixel 8a,Smartphone,Himachal Pradesh,2024-08-28,1,61323,Completed
+942,16271,Pixel Watch 3,Smartwatch,Delhi,2024-10-04,1,38189,Completed
+943,89740,Pixel Buds Pro 2,Earbuds,Bihar,2024-06-06,1,17177,Completed
+944,66736,Pixel Watch 3,Smartwatch,Himachal Pradesh,2024-01-31,1,39152,Pending
+945,86015,Pixel 8a,Smartphone,Maharashtra,2024-12-19,1,57579,Completed
+946,21146,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-11-22,1,16852,Completed
+947,39372,Pixel 9,Smartphone,Gujarat,2024-01-24,1,67299,Completed
+948,73307,Pixel 9 Pro Fold,Smartphone,Uttarakhand,2024-05-05,2,157498,Completed
+949,36347,Pixel Buds Pro 2,Earbuds,Rajasthan,2024-06-17,2,31650,Return
+950,43793,Pixel Watch 2,Smartwatch,Odisha,2024-03-03,1,20466,Pending
+951,67116,Pixel 9,Smartphone,Himachal Pradesh,2024-02-07,1,56838,Completed
+952,54414,Pixel Buds Pro 2,Earbuds,Uttar Pradesh,2024-11-14,1,14940,Completed
+953,98955,Pixel Buds 2a,Earbuds,Chhattisgarh,2024-03-03,1,17923,Completed
+954,39507,Pixel Watch 3,Smartwatch,Chhattisgarh,2024-06-11,1,19274,Completed
+955,23279,Pixel 9 Pro,Smartphone,Haryana,2024-03-25,1,63619,Completed
+956,96145,Pixel 9,Smartphone,Rajasthan,2024-07-20,1,48583,Completed
+957,81603,Pixel 9,Smartphone,Maharashtra,2024-09-28,1,86262,Completed
+958,37934,Pixel 9 Pro,Smartphone,West Bengal,2024-03-04,1,83787,Completed
+959,61698,Pixel 9 Pro XL,Smartphone,Gujarat,2024-08-28,1,96497,Completed
+960,81253,Pixel 8a,Smartphone,West Bengal,2024-08-14,1,104308,Completed
+961,71992,Pixel Buds A-Series,Earbuds,Chhattisgarh,2024-12-26,1,16605,Return
+962,26761,Pixel 9 Pro XL,Smartphone,Himachal Pradesh,2024-09-22,1,91170,Completed
+963,42946,Pixel Watch 2,Smartwatch,Haryana,2024-03-17,1,21788,Completed
+964,12167,Pixel Buds 2a,Earbuds,Madhya Pradesh,2024-06-05,1,10926,Completed
+965,40486,Pixel Watch 3,Smartwatch,Jharkhand,2024-10-07,1,31911,Pending
+966,17839,Pixel 9 Pro XL,Smartphone,Bihar,2024-05-21,3,156246,Completed
+967,63430,Pixel Buds Pro 2,Earbuds,Delhi,2024-04-17,1,18386,Completed
+968,36154,Pixel 9 Pro,Smartphone,Tamil Nadu,2024-04-17,1,78737,Completed
+969,20820,Pixel Watch 2,Smartwatch,Kerala,2024-12-03,1,36270,Completed
+970,71014,Pixel Buds Pro 2,Earbuds,Delhi,2024-06-25,1,14078,Completed
+971,48449,Pixel Buds 2a,Earbuds,Jharkhand,2024-11-06,1,19290,Completed
+972,29114,Pixel Watch 2,Smartwatch,Haryana,2024-04-11,1,25994,Return
+973,19084,Pixel 9 Pro,Smartphone,Assam,2024-11-08,3,179109,Completed
+974,87455,Pixel 8a,Smartphone,Odisha,2024-03-05,1,90124,Return
+975,98276,Pixel Buds Pro 2,Earbuds,West Bengal,2024-03-27,1,17427,Completed
+976,47565,Pixel Watch 3,Smartwatch,Tamil Nadu,2024-03-23,1,17991,Completed
+977,81531,Pixel 9,Smartphone,Himachal Pradesh,2024-12-10,1,112899,Completed
+978,33954,Pixel 9 Pro Fold,Smartphone,Maharashtra,2024-07-30,1,89818,Return
+979,27917,Pixel Watch 2,Smartwatch,Bihar,2024-11-25,1,30094,Completed
+980,25867,Pixel Buds A-Series,Earbuds,Himachal Pradesh,2024-08-30,1,10274,Completed
+981,97721,Pixel 9 Pro,Smartphone,Karnataka,2024-04-16,2,173396,Return
+982,59490,Pixel 9 Pro Fold,Smartphone,Punjab,2024-07-02,1,49012,Completed
+983,43281,Pixel 9 Pro,Smartphone,Delhi,2024-06-05,2,195574,Completed
+984,54265,Pixel 8a,Smartphone,Haryana,2024-10-04,1,107700,Completed
+985,86645,Pixel 9 Pro XL,Smartphone,Haryana,2024-10-15,2,207614,Completed
+986,70438,Pixel 9,Smartphone,Maharashtra,2024-11-02,1,102480,Completed
+987,61669,Pixel 9,Smartphone,Delhi,2024-12-07,1,72035,Completed
+988,64809,Pixel Buds 2a,Earbuds,Jharkhand,2024-01-09,1,12973,Completed
+989,86866,Pixel Watch 2,Smartwatch,Odisha,2024-06-02,1,26228,Return
+990,12071,Pixel 8a,Smartphone,Punjab,2024-02-14,1,56219,Completed
+991,53752,Pixel Watch 2,Smartwatch,Kerala,2024-09-25,1,36061,Completed
+992,28136,Pixel Buds 2a,Earbuds,Assam,2024-11-14,1,19770,Completed
+993,55520,Pixel 9 Pro XL,Smartphone,Telangana,2024-10-15,1,91940,Completed
+994,80590,Pixel Buds 2a,Earbuds,West Bengal,2024-08-06,1,9640,Return
+995,34355,Pixel 8a,Smartphone,Telangana,2024-04-11,1,93206,Completed
+996,21589,Pixel 8a,Smartphone,Odisha,2024-05-25,2,194624,Completed
+997,48877,Pixel Buds Pro 2,Earbuds,Madhya Pradesh,2024-02-15,1,20148,Completed
+998,12063,Pixel 9 Pro XL,Smartphone,West Bengal,2024-10-18,1,90601,Completed
+999,55575,Pixel Watch 3,Smartwatch,Delhi,2024-03-23,1,16023,Completed
+1000,92697,Pixel Watch 3,Smartwatch,Telangana,2024-02-20,1,30179,Completed
