@@ -5,7 +5,7 @@
 This project showcases an interactive Power BI dashboard built using Google Pixel Sales Data.
 The dashboard provides insights into sales performance across different categories, states, and time periods, helping stakeholders analyze trends and make data-driven decisions.
 
-🖼️ Dashboard Preview
+Dashboard Preview
 
 📂 Dataset
 
